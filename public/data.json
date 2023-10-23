@@ -1,0 +1,4174 @@
+{
+	"ABHISHEK BAIRWA": {
+		"Sn": 1,
+		"Roll No": "21EUCCE001",
+		"CRN.": "21/001",
+		"Student Name": "ABHISHEK BAIRWA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"ABHISHEK BHUYAN": {
+		"Sn": 2,
+		"Roll No": "21EUCCE002",
+		"CRN.": "21/061",
+		"Student Name": "ABHISHEK BHUYAN",
+		"Branch": "CIVIL(SFS)"
+	},
+	"ABHISHEK MEENA": {
+		"Sn": 5,
+		"Roll No": "21EUCEE005",
+		"CRN.": "21/303",
+		"Student Name": "ABHISHEK MEENA",
+		"Branch": "EE"
+	},
+	"ABHISHEK TATWAL": {
+		"Sn": 4,
+		"Roll No": "21EUCCE004",
+		"CRN.": "21/002",
+		"Student Name": "ABHISHEK TATWAL",
+		"Branch": "CIVIL(GAS)"
+	},
+	"ADITYA HADA": {
+		"Sn": 5,
+		"Roll No": "21EUCCE005",
+		"CRN.": "21/003",
+		"Student Name": "ADITYA HADA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"AJAY KUMAR NAGAR": {
+		"Sn": 6,
+		"Roll No": "21EUCCE006",
+		"CRN.": "21/004",
+		"Student Name": "AJAY KUMAR NAGAR",
+		"Branch": "CIVIL(GAS)"
+	},
+	"AKHAND PRATAP SINGH": {
+		"Sn": 7,
+		"Roll No": "21EUCCE007",
+		"CRN.": "21/063",
+		"Student Name": "AKHAND PRATAP SINGH",
+		"Branch": "CIVIL(SFS)"
+	},
+	"AMANDEEP SINGH": {
+		"Sn": 8,
+		"Roll No": "21EUCCE008",
+		"CRN.": "21/064",
+		"Student Name": "AMANDEEP SINGH",
+		"Branch": "CIVIL(SFS)"
+	},
+	"ANISH SHARMA": {
+		"Sn": 9,
+		"Roll No": "21EUCCE009",
+		"CRN.": "21/065",
+		"Student Name": "ANISH SHARMA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"ANJALI VERMA": {
+		"Sn": 10,
+		"Roll No": "21EUCCE010",
+		"CRN.": "21/066",
+		"Student Name": "ANJALI VERMA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"ANKIT DAIYA": {
+		"Sn": 11,
+		"Roll No": "21EUCCE011",
+		"CRN.": "21/067",
+		"Student Name": "ANKIT DAIYA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"ANKIT KUMAR MEENA": {
+		"Sn": 12,
+		"Roll No": "21EUCCE012",
+		"CRN.": "21/005",
+		"Student Name": "ANKIT KUMAR MEENA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"ANKIT MEENA": {
+		"Sn": 17,
+		"Roll No": "21EUCEE017",
+		"CRN.": "21/315",
+		"Student Name": "ANKIT MEENA",
+		"Branch": "EE"
+	},
+	"ANOOP KUMAR RAJORIA": {
+		"Sn": 14,
+		"Roll No": "21EUCCE014",
+		"CRN.": "21/006",
+		"Student Name": "ANOOP KUMAR RAJORIA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"ARYAN TODI": {
+		"Sn": 15,
+		"Roll No": "21EUCCE015",
+		"CRN.": "21/069",
+		"Student Name": "ARYAN TODI",
+		"Branch": "CIVIL(SFS)"
+	},
+	"ASHISH KUMAR MEENA": {
+		"Sn": 16,
+		"Roll No": "21EUCCE016",
+		"CRN.": "21/007",
+		"Student Name": "ASHISH KUMAR MEENA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"ASHISH SHRIVASTAVA": {
+		"Sn": 17,
+		"Roll No": "21EUCCE017",
+		"CRN.": "21/008",
+		"Student Name": "ASHISH SHRIVASTAVA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"AKMAL KHAN": {
+		"Sn": 18,
+		"Roll No": "LEEP",
+		"CRN.": "22/602",
+		"Student Name": "AKMAL KHAN",
+		"Branch": "CIVIL(GAS)"
+	},
+	"AMAN DAGUR": {
+		"Sn": 19,
+		"Roll No": "LEEP",
+		"CRN.": "22/603",
+		"Student Name": "AMAN DAGUR",
+		"Branch": "CIVIL(SFS)"
+	},
+	"AMIT KATHAT": {
+		"Sn": 20,
+		"Roll No": "LEEP",
+		"CRN.": "22/604",
+		"Student Name": "AMIT KATHAT",
+		"Branch": "CIVIL(GAS)"
+	},
+	"ANITA KUMARI": {
+		"Sn": 21,
+		"Roll No": "LEEP",
+		"CRN.": "22/605",
+		"Student Name": "ANITA KUMARI",
+		"Branch": "CIVIL(GAS)"
+	},
+	"AVANIT NARAYAN": {
+		"Sn": 22,
+		"Roll No": "21EUCCE018",
+		"CRN.": "21/070",
+		"Student Name": "AVANIT NARAYAN",
+		"Branch": "CIVIL(SFS)"
+	},
+	"AYUSH SINGH RATHORE": {
+		"Sn": 23,
+		"Roll No": "21EUCCE019",
+		"CRN.": "21/071",
+		"Student Name": "AYUSH SINGH RATHORE",
+		"Branch": "CIVIL(SFS)"
+	},
+	"BHAGAT SINGH CHOUDHARY": {
+		"Sn": 24,
+		"Roll No": "21EUCCE020",
+		"CRN.": "21/009",
+		"Student Name": "BHAGAT SINGH CHOUDHARY",
+		"Branch": "CIVIL(GAS)"
+	},
+	"BHAVENDRA CHOUDHARY": {
+		"Sn": 25,
+		"Roll No": "21EUCCE021",
+		"CRN.": "21/072",
+		"Student Name": "BHAVENDRA CHOUDHARY",
+		"Branch": "CIVIL(SFS)"
+	},
+	"BHAVYA YADAV": {
+		"Sn": 26,
+		"Roll No": "21EUCCE022",
+		"CRN.": "21/010",
+		"Student Name": "BHAVYA YADAV",
+		"Branch": "CIVIL(GAS)"
+	},
+	"BHEEM SINGH GURJAR": {
+		"Sn": 27,
+		"Roll No": "21EUCCE023",
+		"CRN.": "21/011",
+		"Student Name": "BHEEM SINGH GURJAR",
+		"Branch": "CIVIL(GAS)"
+	},
+	"CHARVI SANKHLA": {
+		"Sn": 28,
+		"Roll No": "21EUCCE024",
+		"CRN.": "21/012",
+		"Student Name": "CHARVI SANKHLA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"DAKSH SARONJA": {
+		"Sn": 29,
+		"Roll No": "21EUCCE025",
+		"CRN.": "21/013",
+		"Student Name": "DAKSH SARONJA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"DEEPAK CHOUDHARY": {
+		"Sn": 30,
+		"Roll No": "21EUCCE026",
+		"CRN.": "21/014",
+		"Student Name": "DEEPAK CHOUDHARY",
+		"Branch": "CIVIL(GAS)"
+	},
+	"DEEPAK GURJAR": {
+		"Sn": 31,
+		"Roll No": "21EUCCE027",
+		"CRN.": "21/015",
+		"Student Name": "DEEPAK GURJAR",
+		"Branch": "CIVIL(GAS)"
+	},
+	"DEEPAK MEENA": {
+		"Sn": 32,
+		"Roll No": "21EUCCE028",
+		"CRN.": "21/073",
+		"Student Name": "DEEPAK MEENA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"DEEPAK SHARMA": {
+		"Sn": 42,
+		"Roll No": "LEEP",
+		"CRN.": "22/608",
+		"Student Name": "DEEPAK SHARMA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"DEEPESH MEENA": {
+		"Sn": 34,
+		"Roll No": "21EUCCE030",
+		"CRN.": "21/017",
+		"Student Name": "DEEPESH MEENA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"DEVANSH KUMAR": {
+		"Sn": 35,
+		"Roll No": "21EUCCE031",
+		"CRN.": "21/074",
+		"Student Name": "DEVANSH KUMAR",
+		"Branch": "CIVIL(SFS)"
+	},
+	"DEVENDRA KUMAWAT": {
+		"Sn": 36,
+		"Roll No": "21EUCCE032",
+		"CRN.": "21/018",
+		"Student Name": "DEVENDRA KUMAWAT",
+		"Branch": "CIVIL(GAS)"
+	},
+	"DEVENDRA PRAJAPATI": {
+		"Sn": 37,
+		"Roll No": "21EUCCE033",
+		"CRN.": "21/075",
+		"Student Name": "DEVENDRA PRAJAPATI",
+		"Branch": "CIVIL(SFS)"
+	},
+	"GUNGUN VIJAY": {
+		"Sn": 38,
+		"Roll No": "21EUCCE034",
+		"CRN.": "21/019",
+		"Student Name": "GUNGUN VIJAY",
+		"Branch": "CIVIL(GAS)"
+	},
+	"HARSHIT TYAGI": {
+		"Sn": 39,
+		"Roll No": "21EUCCE036",
+		"CRN.": "21/076",
+		"Student Name": "HARSHIT TYAGI",
+		"Branch": "CIVIL(SFS)"
+	},
+	"ARADHYA SINHA": {
+		"Sn": 40,
+		"Roll No": "LEEP",
+		"CRN.": "22/606",
+		"Student Name": "ARADHYA SINHA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"DAKSHAY VERMA": {
+		"Sn": 41,
+		"Roll No": "LEEP",
+		"CRN.": "22/607",
+		"Student Name": "DAKSHAY VERMA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"HIMANSHI SHARMA": {
+		"Sn": 43,
+		"Roll No": "LEEP",
+		"CRN.": "22/609",
+		"Student Name": "HIMANSHI SHARMA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"HEMANT": {
+		"Sn": 44,
+		"Roll No": "21EUCCE037",
+		"CRN.": "21/021",
+		"Student Name": "HEMANT",
+		"Branch": "CIVIL(GAS)"
+	},
+	"HIMANSHU SHARMA": {
+		"Sn": 27,
+		"Roll No": "21EUCEC026",
+		"CRN.": "21/499",
+		"Student Name": "HIMANSHU SHARMA",
+		"Branch": "ECE"
+	},
+	"HITESH MEENA": {
+		"Sn": 46,
+		"Roll No": "21EUCCE040",
+		"CRN.": "21/023",
+		"Student Name": "HITESH MEENA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"KAPIL POSWAL": {
+		"Sn": 47,
+		"Roll No": "21EUCCE042",
+		"CRN.": "21/078",
+		"Student Name": "KAPIL POSWAL",
+		"Branch": "CIVIL(SFS)"
+	},
+	"KAPIL SUMAN": {
+		"Sn": 48,
+		"Roll No": "21EUCCE043",
+		"CRN.": "21/079",
+		"Student Name": "KAPIL SUMAN",
+		"Branch": "CIVIL(SFS)"
+	},
+	"KARAN SINGH NODAL": {
+		"Sn": 49,
+		"Roll No": "21EUCCE044",
+		"CRN.": "21/025",
+		"Student Name": "KARAN SINGH NODAL",
+		"Branch": "CIVIL(GAS)"
+	},
+	"KARTAVYA ARYA": {
+		"Sn": 50,
+		"Roll No": "21EUCCE045",
+		"CRN.": "21/026",
+		"Student Name": "KARTAVYA ARYA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"KARTIK RAJ MEENA": {
+		"Sn": 51,
+		"Roll No": "21EUCCE046",
+		"CRN.": "21/080",
+		"Student Name": "KARTIK RAJ MEENA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"KAUSHAL KISHOR MEENA": {
+		"Sn": 52,
+		"Roll No": "21EUCCE047",
+		"CRN.": "21/027",
+		"Student Name": "KAUSHAL KISHOR MEENA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"KAVITA SEHRA": {
+		"Sn": 53,
+		"Roll No": "21EUCCE048",
+		"CRN.": "21/081",
+		"Student Name": "KAVITA SEHRA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"KHUSHEERAM MEENA": {
+		"Sn": 54,
+		"Roll No": "21EUCCE049",
+		"CRN.": "21/082",
+		"Student Name": "KHUSHEERAM MEENA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"KHUSHI CHANDEL": {
+		"Sn": 55,
+		"Roll No": "21EUCCE050",
+		"CRN.": "21/028",
+		"Student Name": "KHUSHI CHANDEL",
+		"Branch": "CIVIL(GAS)"
+	},
+	"KRISHANKANT MEENA": {
+		"Sn": 56,
+		"Roll No": "21EUCCE051",
+		"CRN.": "21/029",
+		"Student Name": "KRISHANKANT MEENA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"KULDEEP MEENA": {
+		"Sn": 57,
+		"Roll No": "21EUCCE052",
+		"CRN.": "21/083",
+		"Student Name": "KULDEEP MEENA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"LALIT KUMAR KANKARWAL": {
+		"Sn": 58,
+		"Roll No": "21EUCCE053",
+		"CRN.": "21/030",
+		"Student Name": "LALIT KUMAR KANKARWAL",
+		"Branch": "CIVIL(GAS)"
+	},
+	"LOKESH CHOUHAN": {
+		"Sn": 59,
+		"Roll No": "21EUCCE054",
+		"CRN.": "21/031",
+		"Student Name": "LOKESH CHOUHAN",
+		"Branch": "CIVIL(GAS)"
+	},
+	"MAHIDEV RISHISHWAR": {
+		"Sn": 60,
+		"Roll No": "21EUCCE055",
+		"CRN.": "21/084",
+		"Student Name": "MAHIDEV RISHISHWAR",
+		"Branch": "CIVIL(SFS)"
+	},
+	"MAHAVEER SINGH JODHA": {
+		"Sn": 61,
+		"Roll No": "LEEP",
+		"CRN.": "22/610",
+		"Student Name": "MAHAVEER SINGH JODHA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"MAHENDRA KHADAV": {
+		"Sn": 62,
+		"Roll No": "LEEP",
+		"CRN.": "22/611",
+		"Student Name": "MAHENDRA KHADAV",
+		"Branch": "CIVIL(SFS)"
+	},
+	"NIKHIL MEHRA": {
+		"Sn": 63,
+		"Roll No": "LEEP",
+		"CRN.": "22/612",
+		"Student Name": "NIKHIL MEHRA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"OM PRAKASH KUMAWAT": {
+		"Sn": 64,
+		"Roll No": "LEEP",
+		"CRN.": "22/613",
+		"Student Name": "OM PRAKASH KUMAWAT",
+		"Branch": "CIVIL(SFS)"
+	},
+	"MANAS JAIN": {
+		"Sn": 65,
+		"Roll No": "21EUCCE056",
+		"CRN.": "21/032",
+		"Student Name": "MANAS JAIN",
+		"Branch": "CIVIL(GAS)"
+	},
+	"MANTHAN PARETA": {
+		"Sn": 66,
+		"Roll No": "21EUCCE057",
+		"CRN.": "21/085",
+		"Student Name": "MANTHAN PARETA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"MAYANK JORWAL": {
+		"Sn": 67,
+		"Roll No": "21EUCCE058",
+		"CRN.": "21/033",
+		"Student Name": "MAYANK JORWAL",
+		"Branch": "CIVIL(GAS)"
+	},
+	"MD MATIR HUSSAIN": {
+		"Sn": 68,
+		"Roll No": "21EUCCE059",
+		"CRN.": "21/086",
+		"Student Name": "MD MATIR HUSSAIN",
+		"Branch": "CIVIL(SFS)"
+	},
+	"MUSKAN SHARMA": {
+		"Sn": 69,
+		"Roll No": "21EUCCE060",
+		"CRN.": "21/034",
+		"Student Name": "MUSKAN SHARMA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"NEERAJ KUMAR MEENA": {
+		"Sn": 70,
+		"Roll No": "21EUCCE062",
+		"CRN.": "21/087",
+		"Student Name": "NEERAJ KUMAR MEENA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"NIKITA KUMARI": {
+		"Sn": 71,
+		"Roll No": "21EUCCE063",
+		"CRN.": "21/036",
+		"Student Name": "NIKITA KUMARI",
+		"Branch": "CIVIL(GAS)"
+	},
+	"NILAY TRIVEDI": {
+		"Sn": 72,
+		"Roll No": "21EUCCE064",
+		"CRN.": "21/088",
+		"Student Name": "NILAY TRIVEDI",
+		"Branch": "CIVIL(SFS)"
+	},
+	"NIRMAL KUMAR JORWAL": {
+		"Sn": 73,
+		"Roll No": "21EUCCE065",
+		"CRN.": "21/089",
+		"Student Name": "NIRMAL KUMAR JORWAL",
+		"Branch": "CIVIL(SFS)"
+	},
+	"PAKSHIK JAIN": {
+		"Sn": 74,
+		"Roll No": "21EUCCE066",
+		"CRN.": "21/090",
+		"Student Name": "PAKSHIK JAIN",
+		"Branch": "CIVIL(SFS)"
+	},
+	"PANKAJ NAGAR": {
+		"Sn": 75,
+		"Roll No": "21EUCCE067",
+		"CRN.": "21/037",
+		"Student Name": "PANKAJ NAGAR",
+		"Branch": "CIVIL(GAS)"
+	},
+	"PANKAJ SONI": {
+		"Sn": 76,
+		"Roll No": "21EUCCE068",
+		"CRN.": "21/038",
+		"Student Name": "PANKAJ SONI",
+		"Branch": "CIVIL(GAS)"
+	},
+	"PARAS KUMAR MEENA": {
+		"Sn": 77,
+		"Roll No": "21EUCCE069",
+		"CRN.": "21/091",
+		"Student Name": "PARAS KUMAR MEENA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"PRAGATI HATINIA": {
+		"Sn": 78,
+		"Roll No": "21EUCCE070",
+		"CRN.": "21/092",
+		"Student Name": "PRAGATI HATINIA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"PRATEEK CHAUDHARY": {
+		"Sn": 79,
+		"Roll No": "21EUCCE071",
+		"CRN.": "21/039",
+		"Student Name": "PRATEEK CHAUDHARY",
+		"Branch": "CIVIL(GAS)"
+	},
+	"PUSHKAL VASHISHTHA": {
+		"Sn": 80,
+		"Roll No": "21EUCCE072",
+		"CRN.": "21/093",
+		"Student Name": "PUSHKAL VASHISHTHA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"PUSHPENDRA TATU": {
+		"Sn": 81,
+		"Roll No": "21EUCCE073",
+		"CRN.": "21/040",
+		"Student Name": "PUSHPENDRA TATU",
+		"Branch": "CIVIL(GAS)"
+	},
+	"RAHUL TATU": {
+		"Sn": 82,
+		"Roll No": "21EUCCE074",
+		"CRN.": "21/041",
+		"Student Name": "RAHUL TATU",
+		"Branch": "CIVIL(GAS)"
+	},
+	"PRAVEEN KUMAR BHARDWAJ": {
+		"Sn": 83,
+		"Roll No": "LEEP",
+		"CRN.": "22/614",
+		"Student Name": "PRAVEEN KUMAR BHARDWAJ",
+		"Branch": "CIVIL(GAS)"
+	},
+	"PREETI CHAUHAN": {
+		"Sn": 84,
+		"Roll No": "LEEP",
+		"CRN.": "22/615",
+		"Student Name": "PREETI CHAUHAN",
+		"Branch": "CIVIL(GAS)"
+	},
+	"RAJESH SAINI": {
+		"Sn": 85,
+		"Roll No": "LEEP",
+		"CRN.": "22/616",
+		"Student Name": "RAJESH SAINI",
+		"Branch": "CIVIL(SFS)"
+	},
+	"RAKESH CHOUDHARY": {
+		"Sn": 86,
+		"Roll No": "LEEP",
+		"CRN.": "22/617",
+		"Student Name": "RAKESH CHOUDHARY",
+		"Branch": "CIVIL(SFS)"
+	},
+	"RAJENDRA MATHURALAL MEENA": {
+		"Sn": 87,
+		"Roll No": "21EUCCE075",
+		"CRN.": "21/042",
+		"Student Name": "RAJENDRA MATHURALAL MEENA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"RAJKUMAR MEENA": {
+		"Sn": 88,
+		"Roll No": "21EUCCE076",
+		"CRN.": "21/094",
+		"Student Name": "RAJKUMAR MEENA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"RAM KUMAR TAITER": {
+		"Sn": 89,
+		"Roll No": "21EUCCE077",
+		"CRN.": "21/043",
+		"Student Name": "RAM KUMAR TAITER",
+		"Branch": "CIVIL(GAS)"
+	},
+	"RAVI SHANKAR SHARMA": {
+		"Sn": 90,
+		"Roll No": "21EUCCE078",
+		"CRN.": "21/095",
+		"Student Name": "RAVI SHANKAR SHARMA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"RISHITA RATHORE": {
+		"Sn": 91,
+		"Roll No": "21EUCCE079",
+		"CRN.": "21/096",
+		"Student Name": "RISHITA RATHORE",
+		"Branch": "CIVIL(SFS)"
+	},
+	"ROHIT GURJAR": {
+		"Sn": 92,
+		"Roll No": "21EUCCE080",
+		"CRN.": "21/097",
+		"Student Name": "ROHIT GURJAR",
+		"Branch": "CIVIL(SFS)"
+	},
+	"RONAK BAIRAGI": {
+		"Sn": 93,
+		"Roll No": "21EUCCE081",
+		"CRN.": "21/044",
+		"Student Name": "RONAK BAIRAGI",
+		"Branch": "CIVIL(GAS)"
+	},
+	"RUMIT SUMAN": {
+		"Sn": 94,
+		"Roll No": "21EUCCE082",
+		"CRN.": "21/045",
+		"Student Name": "RUMIT SUMAN",
+		"Branch": "CIVIL(GAS)"
+	},
+	"RUPA KUMARI": {
+		"Sn": 95,
+		"Roll No": "21EUCCE083",
+		"CRN.": "21/098",
+		"Student Name": "RUPA KUMARI",
+		"Branch": "CIVIL(SFS)"
+	},
+	"SADAF MANSURI": {
+		"Sn": 96,
+		"Roll No": "21EUCCE084",
+		"CRN.": "21/099",
+		"Student Name": "SADAF MANSURI",
+		"Branch": "CIVIL(SFS)"
+	},
+	"SAJIDA KHAN": {
+		"Sn": 97,
+		"Roll No": "21EUCCE085",
+		"CRN.": "21/046",
+		"Student Name": "SAJIDA KHAN",
+		"Branch": "CIVIL(GAS)"
+	},
+	"SAMEER KUSHWAHA": {
+		"Sn": 98,
+		"Roll No": "21EUCCE086",
+		"CRN.": "21/100",
+		"Student Name": "SAMEER KUSHWAHA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"SANAT KUMAR DWIVEDI": {
+		"Sn": 99,
+		"Roll No": "21EUCCE087",
+		"CRN.": "21/101",
+		"Student Name": "SANAT KUMAR DWIVEDI",
+		"Branch": "CIVIL(SFS)"
+	},
+	"SANDEEP KUMAR": {
+		"Sn": 100,
+		"Roll No": "21EUCCE088",
+		"CRN.": "21/047",
+		"Student Name": "SANDEEP KUMAR",
+		"Branch": "CIVIL(GAS)"
+	},
+	"SANIYA": {
+		"Sn": 101,
+		"Roll No": "21EUCCE089",
+		"CRN.": "21/048",
+		"Student Name": "SANIYA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"SANJANA MEENA": {
+		"Sn": 102,
+		"Roll No": "21EUCCE090",
+		"CRN.": "21/102",
+		"Student Name": "SANJANA MEENA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"SATVIK POONIA": {
+		"Sn": 103,
+		"Roll No": "21EUCCE091",
+		"CRN.": "21/049",
+		"Student Name": "SATVIK POONIA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"RAVINDRA KUMARSAINI": {
+		"Sn": 104,
+		"Roll No": "LEEP",
+		"CRN.": "22/618",
+		"Student Name": "RAVINDRA KUMARSAINI",
+		"Branch": "CIVIL(SFS)"
+	},
+	"RITESH CHOUDHARY": {
+		"Sn": 105,
+		"Roll No": "LEEP",
+		"CRN.": "22/619",
+		"Student Name": "RITESH CHOUDHARY",
+		"Branch": "CIVIL(SFS)"
+	},
+	"RONIT KUMAWAT": {
+		"Sn": 106,
+		"Roll No": "LEEP",
+		"CRN.": "22/620",
+		"Student Name": "RONIT KUMAWAT",
+		"Branch": "CIVIL(SFS)"
+	},
+	"SHIVDAN": {
+		"Sn": 107,
+		"Roll No": "LEEP",
+		"CRN.": "22/621",
+		"Student Name": "SHIVDAN",
+		"Branch": "CIVIL(GAS)"
+	},
+	"SHIVANSH MEENA": {
+		"Sn": 108,
+		"Roll No": "21EUCCE092",
+		"CRN.": "21/103",
+		"Student Name": "SHIVANSH MEENA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"SHLOK PANCHAL": {
+		"Sn": 109,
+		"Roll No": "21EUCCE093",
+		"CRN.": "21/050",
+		"Student Name": "SHLOK PANCHAL",
+		"Branch": "CIVIL(GAS)"
+	},
+	"SRISHTI LODIYA": {
+		"Sn": 110,
+		"Roll No": "21EUCCE094",
+		"CRN.": "21/051",
+		"Student Name": "SRISHTI LODIYA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"SUNIL HADAT": {
+		"Sn": 111,
+		"Roll No": "21EUCCE095",
+		"CRN.": "21/052",
+		"Student Name": "SUNIL HADAT",
+		"Branch": "CIVIL(GAS)"
+	},
+	"TANISHA GARG": {
+		"Sn": 112,
+		"Roll No": "21EUCCE096",
+		"CRN.": "21/053",
+		"Student Name": "TANISHA GARG",
+		"Branch": "CIVIL(GAS)"
+	},
+	"UDIT CHOUHAN": {
+		"Sn": 113,
+		"Roll No": "21EUCCE097",
+		"CRN.": "21/054",
+		"Student Name": "UDIT CHOUHAN",
+		"Branch": "CIVIL(GAS)"
+	},
+	"UMAR ALI KHAN": {
+		"Sn": 114,
+		"Roll No": "21EUCCE098",
+		"CRN.": "21/104",
+		"Student Name": "UMAR ALI KHAN",
+		"Branch": "CIVIL(SFS)"
+	},
+	"VAIBHAV KATARIYA": {
+		"Sn": 115,
+		"Roll No": "21EUCCE099",
+		"CRN.": "21/105",
+		"Student Name": "VAIBHAV KATARIYA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"VANSH KHICHI": {
+		"Sn": 116,
+		"Roll No": "21EUCCE100",
+		"CRN.": "21/106",
+		"Student Name": "VANSH KHICHI",
+		"Branch": "CIVIL(SFS)"
+	},
+	"VANSH PRAJAPATI": {
+		"Sn": 117,
+		"Roll No": "21EUCCE101",
+		"CRN.": "21/107",
+		"Student Name": "VANSH PRAJAPATI",
+		"Branch": "CIVIL(SFS)"
+	},
+	"VIKAS KUMAR SUMAN": {
+		"Sn": 118,
+		"Roll No": "21EUCCE102",
+		"CRN.": "21/108",
+		"Student Name": "VIKAS KUMAR SUMAN",
+		"Branch": "CIVIL(SFS)"
+	},
+	"VINAY KUMAR MEENA": {
+		"Sn": 119,
+		"Roll No": "21EUCCE103",
+		"CRN.": "21/109",
+		"Student Name": "VINAY KUMAR MEENA",
+		"Branch": "CIVIL(SFS)"
+	},
+	"VINEET LODWAL": {
+		"Sn": 120,
+		"Roll No": "21EUCCE104",
+		"CRN.": "21/055",
+		"Student Name": "VINEET LODWAL",
+		"Branch": "CIVIL(GAS)"
+	},
+	"VINOD KUMAR CHOPRA": {
+		"Sn": 121,
+		"Roll No": "21EUCCE105",
+		"CRN.": "21/056",
+		"Student Name": "VINOD KUMAR CHOPRA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"YAJAT YADAV": {
+		"Sn": 122,
+		"Roll No": "21EUCCE106",
+		"CRN.": "21/057",
+		"Student Name": "YAJAT YADAV",
+		"Branch": "CIVIL(GAS)"
+	},
+	"YASH SHARMA": {
+		"Sn": 123,
+		"Roll No": "21EUCCE107",
+		"CRN.": "21/058",
+		"Student Name": "YASH SHARMA",
+		"Branch": "CIVIL(GAS)"
+	},
+	"YASHVARDHAN SINGH": {
+		"Sn": 124,
+		"Roll No": "21EUCCE108",
+		"CRN.": "21/059",
+		"Student Name": "YASHVARDHAN SINGH",
+		"Branch": "CIVIL(GAS)"
+	},
+	"YOGESH KUMAR": {
+		"Sn": 125,
+		"Roll No": "21EUCCE109",
+		"CRN.": "21/060",
+		"Student Name": "YOGESH KUMAR",
+		"Branch": "CIVIL(GAS)"
+	},
+	"VIJAY KUMAR SWAMI": {
+		"Sn": 126,
+		"Roll No": "LEEP",
+		"CRN.": "22/622",
+		"Student Name": "VIJAY KUMAR SWAMI",
+		"Branch": "CIVIL(SFS)"
+	},
+	"VIKASH KUMAR": {
+		"Sn": 127,
+		"Roll No": "LEEP",
+		"CRN.": "22/623",
+		"Student Name": "VIKASH KUMAR",
+		"Branch": "CIVIL(SFS)"
+	},
+	"VIVEK MOYAL": {
+		"Sn": 128,
+		"Roll No": "LEEP",
+		"CRN.": "22/624",
+		"Student Name": "VIVEK MOYAL",
+		"Branch": "CIVIL(GAS)"
+	},
+	"AADISH JAIN": {
+		"Sn": 1,
+		"Roll No": "21EUCCS001",
+		"CRN.": "21/176",
+		"Student Name": "AADISH JAIN",
+		"Branch": "CSE"
+	},
+	"AAKASH CHAUHAN": {
+		"Sn": 2,
+		"Roll No": "21EUCCS002",
+		"CRN.": "21/177",
+		"Student Name": "AAKASH CHAUHAN",
+		"Branch": "CSE"
+	},
+	"AARYAN VIJAYVARGIYA": {
+		"Sn": 3,
+		"Roll No": "21EUCCS003",
+		"CRN.": "21/178",
+		"Student Name": "AARYAN VIJAYVARGIYA",
+		"Branch": "CSE"
+	},
+	"ABHISHEK JAISWAL": {
+		"Sn": 4,
+		"Roll No": "21EUCCS004",
+		"CRN.": "21/179",
+		"Student Name": "ABHISHEK JAISWAL",
+		"Branch": "CSE"
+	},
+	"ABHISHEK NAGAR": {
+		"Sn": 5,
+		"Roll No": "21EUCCS005",
+		"CRN.": "21/180",
+		"Student Name": "ABHISHEK NAGAR",
+		"Branch": "CSE"
+	},
+	"ADITI SHANKHWAL": {
+		"Sn": 6,
+		"Roll No": "21EUCCS006",
+		"CRN.": "21/181",
+		"Student Name": "ADITI SHANKHWAL",
+		"Branch": "CSE"
+	},
+	"ADITYA SHEKHAWAT": {
+		"Sn": 7,
+		"Roll No": "21EUCCS007",
+		"CRN.": "21/182",
+		"Student Name": "ADITYA SHEKHAWAT",
+		"Branch": "CSE"
+	},
+	"AJAY SINGH": {
+		"Sn": 8,
+		"Roll No": "21EUCCS008",
+		"CRN.": "21/183",
+		"Student Name": "AJAY SINGH",
+		"Branch": "CSE"
+	},
+	"AKSHAT JAIN": {
+		"Sn": 9,
+		"Roll No": "21EUCCS009",
+		"CRN.": "21/184",
+		"Student Name": "AKSHAT JAIN",
+		"Branch": "CSE"
+	},
+	"AMIT SHARMA": {
+		"Sn": 10,
+		"Roll No": "21EUCCS010",
+		"CRN.": "21/185",
+		"Student Name": "AMIT SHARMA",
+		"Branch": "CSE"
+	},
+	"AMITA VERMA": {
+		"Sn": 11,
+		"Roll No": "21EUCCS011",
+		"CRN.": "21/186",
+		"Student Name": "AMITA VERMA",
+		"Branch": "CSE"
+	},
+	"ANIL KUMAR SAINI": {
+		"Sn": 12,
+		"Roll No": "21EUCCS012",
+		"CRN.": "21/187",
+		"Student Name": "ANIL KUMAR SAINI",
+		"Branch": "CSE"
+	},
+	"ANIRUDH PRATAP SINGH": {
+		"Sn": 13,
+		"Roll No": "21EUCCS013",
+		"CRN.": "21/188",
+		"Student Name": "ANIRUDH PRATAP SINGH",
+		"Branch": "CSE"
+	},
+	"ANISH SONI": {
+		"Sn": 14,
+		"Roll No": "21EUCCS014",
+		"CRN.": "21/189",
+		"Student Name": "ANISH SONI",
+		"Branch": "CSE"
+	},
+	"ANKIT PRAKASH": {
+		"Sn": 15,
+		"Roll No": "21EUCCS015",
+		"CRN.": "21/190",
+		"Student Name": "ANKIT PRAKASH",
+		"Branch": "CSE"
+	},
+	"ANSHIKA JETHLIYA": {
+		"Sn": 16,
+		"Roll No": "21EUCCS016",
+		"CRN.": "21/191",
+		"Student Name": "ANSHIKA JETHLIYA",
+		"Branch": "CSE"
+	},
+	"ANUSHKA GUPTA": {
+		"Sn": 17,
+		"Roll No": "21EUCCS018",
+		"CRN.": "21/193",
+		"Student Name": "ANUSHKA GUPTA",
+		"Branch": "CSE"
+	},
+	"ANUSHRIYA ROY": {
+		"Sn": 18,
+		"Roll No": "21EUCCS019",
+		"CRN.": "21/194",
+		"Student Name": "ANUSHRIYA ROY",
+		"Branch": "CSE"
+	},
+	"ARPIT MAWAI": {
+		"Sn": 19,
+		"Roll No": "21EUCCS021",
+		"CRN.": "21/196",
+		"Student Name": "ARPIT MAWAI",
+		"Branch": "CSE"
+	},
+	"ARYAN JOSHI": {
+		"Sn": 5,
+		"Roll No": "21EUCIT005",
+		"CRN.": "21/417",
+		"Student Name": "ARYAN JOSHI",
+		"Branch": "IT"
+	},
+	"ABHIMANYU JANGID": {
+		"Sn": 21,
+		"Roll No": "LEEP",
+		"CRN.": "22/625",
+		"Student Name": "ABHIMANYU JANGID",
+		"Branch": "CSE"
+	},
+	"ASHISH ARYA": {
+		"Sn": 22,
+		"Roll No": "LEEP",
+		"CRN.": "22/626",
+		"Student Name": "ASHISH ARYA",
+		"Branch": "CSE"
+	},
+	"ASHISH JAIN": {
+		"Sn": 23,
+		"Roll No": "21EUCCS023",
+		"CRN.": "21/198",
+		"Student Name": "ASHISH JAIN",
+		"Branch": "CSE"
+	},
+	"ASHISH JANGID": {
+		"Sn": 24,
+		"Roll No": "21EUCCS024",
+		"CRN.": "21/199",
+		"Student Name": "ASHISH JANGID",
+		"Branch": "CSE"
+	},
+	"ATHAR SIDDIQUI": {
+		"Sn": 25,
+		"Roll No": "21EUCCS025",
+		"CRN.": "21/200",
+		"Student Name": "ATHAR SIDDIQUI",
+		"Branch": "CSE"
+	},
+	"AVIRAT TAK": {
+		"Sn": 26,
+		"Roll No": "21EUCCS026",
+		"CRN.": "21/201",
+		"Student Name": "AVIRAT TAK",
+		"Branch": "CSE"
+	},
+	"AYUSH SAXENA": {
+		"Sn": 27,
+		"Roll No": "21EUCCS028",
+		"CRN.": "21/203",
+		"Student Name": "AYUSH SAXENA",
+		"Branch": "CSE"
+	},
+	"AYUSH SHARMA": {
+		"Sn": 6,
+		"Roll No": "21EUCIT006",
+		"CRN.": "21/418",
+		"Student Name": "AYUSH SHARMA",
+		"Branch": "IT"
+	},
+	"BHARAT GORANI": {
+		"Sn": 29,
+		"Roll No": "21EUCCS030",
+		"CRN.": "21/205",
+		"Student Name": "BHARAT GORANI",
+		"Branch": "CSE"
+	},
+	"BHARAT KUMAR": {
+		"Sn": 30,
+		"Roll No": "21EUCCS031",
+		"CRN.": "21/206",
+		"Student Name": "BHARAT KUMAR",
+		"Branch": "CSE"
+	},
+	"BHUVAN CHOUDHARY": {
+		"Sn": 31,
+		"Roll No": "21EUCCS032",
+		"CRN.": "21/207",
+		"Student Name": "BHUVAN CHOUDHARY",
+		"Branch": "CSE"
+	},
+	"CHELSI KHERWAL": {
+		"Sn": 32,
+		"Roll No": "21EUCCS033",
+		"CRN.": "21/208",
+		"Student Name": "CHELSI KHERWAL",
+		"Branch": "CSE"
+	},
+	"CHHATRAPAL SINGH": {
+		"Sn": 33,
+		"Roll No": "21EUCCS034",
+		"CRN.": "21/209",
+		"Student Name": "CHHATRAPAL SINGH",
+		"Branch": "CSE"
+	},
+	"CHINMAI SINGHAL": {
+		"Sn": 34,
+		"Roll No": "21EUCCS035",
+		"CRN.": "21/210",
+		"Student Name": "CHINMAI SINGHAL",
+		"Branch": "CSE"
+	},
+	"CHINMAY VIJAY VARGIYA": {
+		"Sn": 35,
+		"Roll No": "21EUCCS036",
+		"CRN.": "21/211",
+		"Student Name": "CHINMAY VIJAY VARGIYA",
+		"Branch": "CSE"
+	},
+	"DARSHAN NYATI": {
+		"Sn": 36,
+		"Roll No": "21EUCCS037",
+		"CRN.": "21/212",
+		"Student Name": "DARSHAN NYATI",
+		"Branch": "CSE"
+	},
+	"DEEPAK KUMAR": {
+		"Sn": 37,
+		"Roll No": "21EUCCS038",
+		"CRN.": "21/213",
+		"Student Name": "DEEPAK KUMAR",
+		"Branch": "CSE"
+	},
+	"DEEPAK KUMAR GUPTA": {
+		"Sn": 38,
+		"Roll No": "21EUCCS039",
+		"CRN.": "21/214",
+		"Student Name": "DEEPAK KUMAR GUPTA",
+		"Branch": "CSE"
+	},
+	"DEEPALI THAKUR": {
+		"Sn": 39,
+		"Roll No": "21EUCCS040",
+		"CRN.": "21/215",
+		"Student Name": "DEEPALI THAKUR",
+		"Branch": "CSE"
+	},
+	"DHRUV GUPTA": {
+		"Sn": 40,
+		"Roll No": "21EUCCS041",
+		"CRN.": "21/216",
+		"Student Name": "DHRUV GUPTA",
+		"Branch": "CSE"
+	},
+	"DISHA CHOUDHARY": {
+		"Sn": 41,
+		"Roll No": "21EUCCS042",
+		"CRN.": "21/217",
+		"Student Name": "DISHA CHOUDHARY",
+		"Branch": "CSE"
+	},
+	"DIYA MEDATWAL": {
+		"Sn": 42,
+		"Roll No": "21EUCCS043",
+		"CRN.": "21/218",
+		"Student Name": "DIYA MEDATWAL",
+		"Branch": "CSE"
+	},
+	"DEVENDRA SINGH RATHORE": {
+		"Sn": 43,
+		"Roll No": "LEEP",
+		"CRN.": "22/627",
+		"Student Name": "DEVENDRA SINGH RATHORE",
+		"Branch": "CSE"
+	},
+	"HARSHIT SHARMA": {
+		"Sn": 44,
+		"Roll No": "LEEP",
+		"CRN.": "22/628",
+		"Student Name": "HARSHIT SHARMA",
+		"Branch": "CSE"
+	},
+	"GAGAN JHA": {
+		"Sn": 45,
+		"Roll No": "21EUCCS044",
+		"CRN.": "21/219",
+		"Student Name": "GAGAN JHA",
+		"Branch": "CSE"
+	},
+	"GAJANAND MALI": {
+		"Sn": 46,
+		"Roll No": "21EUCCS045",
+		"CRN.": "21/220",
+		"Student Name": "GAJANAND MALI",
+		"Branch": "CSE"
+	},
+	"GAURAV": {
+		"Sn": 47,
+		"Roll No": "21EUCCS046",
+		"CRN.": "21/221",
+		"Student Name": "GAURAV",
+		"Branch": "CSE"
+	},
+	"GAURAV SHARMA": {
+		"Sn": 48,
+		"Roll No": "21EUCCS047",
+		"CRN.": "21/222",
+		"Student Name": "GAURAV SHARMA",
+		"Branch": "CSE"
+	},
+	"GOPESH KUMAR JANGID": {
+		"Sn": 49,
+		"Roll No": "21EUCCS048",
+		"CRN.": "21/223",
+		"Student Name": "GOPESH KUMAR JANGID",
+		"Branch": "CSE"
+	},
+	"GOVIND MADAN": {
+		"Sn": 50,
+		"Roll No": "21EUCCS049",
+		"CRN.": "21/224",
+		"Student Name": "GOVIND MADAN",
+		"Branch": "CSE"
+	},
+	"HARISH PANWAR": {
+		"Sn": 51,
+		"Roll No": "21EUCCS050",
+		"CRN.": "21/225",
+		"Student Name": "HARISH PANWAR",
+		"Branch": "CSE"
+	},
+	"HARSH KHARNIWAL": {
+		"Sn": 52,
+		"Roll No": "21EUCCS051",
+		"CRN.": "21/226",
+		"Student Name": "HARSH KHARNIWAL",
+		"Branch": "CSE"
+	},
+	"HARSH NAMDEV": {
+		"Sn": 53,
+		"Roll No": "21EUCCS052",
+		"CRN.": "21/227",
+		"Student Name": "HARSH NAMDEV",
+		"Branch": "CSE"
+	},
+	"HARSHIT PRAKASH PANDEY": {
+		"Sn": 54,
+		"Roll No": "21EUCCS053",
+		"CRN.": "21/228",
+		"Student Name": "HARSHIT PRAKASH PANDEY",
+		"Branch": "CSE"
+	},
+	"HONEY SOMPURA": {
+		"Sn": 55,
+		"Roll No": "21EUCCS054",
+		"CRN.": "21/229",
+		"Student Name": "HONEY SOMPURA",
+		"Branch": "CSE"
+	},
+	"JATIN SHARMA": {
+		"Sn": 56,
+		"Roll No": "21EUCCS055",
+		"CRN.": "21/230",
+		"Student Name": "JATIN SHARMA",
+		"Branch": "CSE"
+	},
+	"JITENDRA MAHLA": {
+		"Sn": 57,
+		"Roll No": "21EUCCS056",
+		"CRN.": "21/231",
+		"Student Name": "JITENDRA MAHLA",
+		"Branch": "CSE"
+	},
+	"JYOTI SUMAN": {
+		"Sn": 58,
+		"Roll No": "21EUCCS057",
+		"CRN.": "21/232",
+		"Student Name": "JYOTI SUMAN",
+		"Branch": "CSE"
+	},
+	"KABITA DEVI": {
+		"Sn": 59,
+		"Roll No": "21EUCCS058",
+		"CRN.": "21/233",
+		"Student Name": "KABITA DEVI",
+		"Branch": "CSE"
+	},
+	"KAMAL PRAJAPAT": {
+		"Sn": 60,
+		"Roll No": "21EUCCS059",
+		"CRN.": "21/234",
+		"Student Name": "KAMAL PRAJAPAT",
+		"Branch": "CSE"
+	},
+	"KAPIL KUMAR VERMA": {
+		"Sn": 61,
+		"Roll No": "21EUCCS060",
+		"CRN.": "21/235",
+		"Student Name": "KAPIL KUMAR VERMA",
+		"Branch": "CSE"
+	},
+	"KARTIKEYA SONI": {
+		"Sn": 62,
+		"Roll No": "21EUCCS061",
+		"CRN.": "21/236",
+		"Student Name": "KARTIKEYA SONI",
+		"Branch": "CSE"
+	},
+	"KHUSHI VERMA": {
+		"Sn": 63,
+		"Roll No": "21EUCCS062",
+		"CRN.": "21/237",
+		"Student Name": "KHUSHI VERMA",
+		"Branch": "CSE"
+	},
+	"KRISHAN KUMAR MINA": {
+		"Sn": 64,
+		"Roll No": "21EUCCS063",
+		"CRN.": "21/238",
+		"Student Name": "KRISHAN KUMAR MINA",
+		"Branch": "CSE"
+	},
+	"MANSHA MANGLANI": {
+		"Sn": 65,
+		"Roll No": "LEEP",
+		"CRN.": "22/629",
+		"Student Name": "MANSHA MANGLANI",
+		"Branch": "CSE"
+	},
+	"MOHIT BANSAL": {
+		"Sn": 66,
+		"Roll No": "LEEP",
+		"CRN.": "22/630",
+		"Student Name": "MOHIT BANSAL",
+		"Branch": "CSE"
+	},
+	"KUMKUM CHOUHAN": {
+		"Sn": 67,
+		"Roll No": "21EUCCS064",
+		"CRN.": "21/239",
+		"Student Name": "KUMKUM CHOUHAN",
+		"Branch": "CSE"
+	},
+	"KUSHAGRA JAIN": {
+		"Sn": 68,
+		"Roll No": "21EUCCS065",
+		"CRN.": "21/240",
+		"Student Name": "KUSHAGRA JAIN",
+		"Branch": "CSE"
+	},
+	"LAKSHAY SWAMI": {
+		"Sn": 69,
+		"Roll No": "21EUCCS066",
+		"CRN.": "21/241",
+		"Student Name": "LAKSHAY SWAMI",
+		"Branch": "CSE"
+	},
+	"LAKSHYA UPADDHYAY": {
+		"Sn": 70,
+		"Roll No": "21EUCCS067",
+		"CRN.": "21/242",
+		"Student Name": "LAKSHYA UPADDHYAY",
+		"Branch": "CSE"
+	},
+	"MANISH SUTHAR": {
+		"Sn": 71,
+		"Roll No": "21EUCCS068",
+		"CRN.": "21/243",
+		"Student Name": "MANISH SUTHAR",
+		"Branch": "CSE"
+	},
+	"MANSHA RAISINGHANI": {
+		"Sn": 72,
+		"Roll No": "21EUCCS069",
+		"CRN.": "21/244",
+		"Student Name": "MANSHA RAISINGHANI",
+		"Branch": "CSE"
+	},
+	"MITESH KUMAR": {
+		"Sn": 73,
+		"Roll No": "21EUCCS070",
+		"CRN.": "21/245",
+		"Student Name": "MITESH KUMAR",
+		"Branch": "CSE"
+	},
+	"MOHIL BANSAL": {
+		"Sn": 74,
+		"Roll No": "21EUCCS071",
+		"CRN.": "21/246",
+		"Student Name": "MOHIL BANSAL",
+		"Branch": "CSE"
+	},
+	"MOHIT": {
+		"Sn": 72,
+		"Roll No": "21EUCEE068",
+		"CRN.": "21/366",
+		"Student Name": "MOHIT",
+		"Branch": "EE"
+	},
+	"MOHIT RAJ BANSAL": {
+		"Sn": 76,
+		"Roll No": "21EUCCS073",
+		"CRN.": "21/248",
+		"Student Name": "MOHIT RAJ BANSAL",
+		"Branch": "CSE"
+	},
+	"MS. NISHA GARG": {
+		"Sn": 77,
+		"Roll No": "21EUCCS079",
+		"CRN.": "21/249",
+		"Student Name": "MS. NISHA GARG",
+		"Branch": "CSE"
+	},
+	"NAMAN DADHICH": {
+		"Sn": 78,
+		"Roll No": "21EUCCS074",
+		"CRN.": "21/250",
+		"Student Name": "NAMAN DADHICH",
+		"Branch": "CSE"
+	},
+	"NANDINI BAGHERWAL": {
+		"Sn": 79,
+		"Roll No": "21EUCCS075",
+		"CRN.": "21/251",
+		"Student Name": "NANDINI BAGHERWAL",
+		"Branch": "CSE"
+	},
+	"NAVNEET AGARWAL": {
+		"Sn": 80,
+		"Roll No": "21EUCCS076",
+		"CRN.": "21/252",
+		"Student Name": "NAVNEET AGARWAL",
+		"Branch": "CSE"
+	},
+	"NEHA GUPTA": {
+		"Sn": 81,
+		"Roll No": "21EUCCS077",
+		"CRN.": "21/253",
+		"Student Name": "NEHA GUPTA",
+		"Branch": "CSE"
+	},
+	"NIHAL KUMAR": {
+		"Sn": 82,
+		"Roll No": "21EUCCS078",
+		"CRN.": "21/254",
+		"Student Name": "NIHAL KUMAR",
+		"Branch": "CSE"
+	},
+	"NITESH KUMAR SHARMA": {
+		"Sn": 83,
+		"Roll No": "21EUCCS080",
+		"CRN.": "21/255",
+		"Student Name": "NITESH KUMAR SHARMA",
+		"Branch": "CSE"
+	},
+	"PALLAVI TANWAR": {
+		"Sn": 84,
+		"Roll No": "21EUCCS081",
+		"CRN.": "21/256",
+		"Student Name": "PALLAVI TANWAR",
+		"Branch": "CSE"
+	},
+	"PAWAN MEHTA": {
+		"Sn": 85,
+		"Roll No": "21EUCCS082",
+		"CRN.": "21/257",
+		"Student Name": "PAWAN MEHTA",
+		"Branch": "CSE"
+	},
+	"PIYUSH GOYAL": {
+		"Sn": 86,
+		"Roll No": "21EUCCS083",
+		"CRN.": "21/258",
+		"Student Name": "PIYUSH GOYAL",
+		"Branch": "CSE"
+	},
+	"NIKITA CHAUHAN": {
+		"Sn": 87,
+		"Roll No": "LEEP",
+		"CRN.": "22/631",
+		"Student Name": "NIKITA CHAUHAN",
+		"Branch": "CSE"
+	},
+	"PINKY SAHU": {
+		"Sn": 88,
+		"Roll No": "LEEP",
+		"CRN.": "22/632",
+		"Student Name": "PINKY SAHU",
+		"Branch": "CSE"
+	},
+	"PIYUSH SHIVNANI": {
+		"Sn": 89,
+		"Roll No": "21EUCCS084",
+		"CRN.": "21/259",
+		"Student Name": "PIYUSH SHIVNANI",
+		"Branch": "CSE"
+	},
+	"POONAM KANWAR": {
+		"Sn": 90,
+		"Roll No": "21EUCCS085",
+		"CRN.": "21/260",
+		"Student Name": "POONAM KANWAR",
+		"Branch": "CSE"
+	},
+	"PRADEEP KUMAR CHAUDHARY": {
+		"Sn": 91,
+		"Roll No": "21EUCCS086",
+		"CRN.": "21/261",
+		"Student Name": "PRADEEP KUMAR CHAUDHARY",
+		"Branch": "CSE"
+	},
+	"PRANCHAL GUPTA": {
+		"Sn": 92,
+		"Roll No": "21EUCCS087",
+		"CRN.": "21/262",
+		"Student Name": "PRANCHAL GUPTA",
+		"Branch": "CSE"
+	},
+	"PREET PALIWAL": {
+		"Sn": 93,
+		"Roll No": "21EUCCS088",
+		"CRN.": "21/263",
+		"Student Name": "PREET PALIWAL",
+		"Branch": "CSE"
+	},
+	"PRIYAMVADA": {
+		"Sn": 94,
+		"Roll No": "21EUCCS089",
+		"CRN.": "21/264",
+		"Student Name": "PRIYAMVADA",
+		"Branch": "CSE"
+	},
+	"PRIYANSHI GAHLOT": {
+		"Sn": 95,
+		"Roll No": "21EUCCS090",
+		"CRN.": "21/265",
+		"Student Name": "PRIYANSHI GAHLOT",
+		"Branch": "CSE"
+	},
+	"PRIYANSHU KUMAWAT": {
+		"Sn": 96,
+		"Roll No": "21EUCCS091",
+		"CRN.": "21/266",
+		"Student Name": "PRIYANSHU KUMAWAT",
+		"Branch": "CSE"
+	},
+	"PUNEET YADAV": {
+		"Sn": 97,
+		"Roll No": "21EUCCS092",
+		"CRN.": "21/267",
+		"Student Name": "PUNEET YADAV",
+		"Branch": "CSE"
+	},
+	"PUSHKAR YADAV": {
+		"Sn": 98,
+		"Roll No": "21EUCCS093",
+		"CRN.": "21/268",
+		"Student Name": "PUSHKAR YADAV",
+		"Branch": "CSE"
+	},
+	"RADHESHYAM JANWA": {
+		"Sn": 99,
+		"Roll No": "21EUCCS094",
+		"CRN.": "21/269",
+		"Student Name": "RADHESHYAM JANWA",
+		"Branch": "CSE"
+	},
+	"RAGHVENDRA SINGH": {
+		"Sn": 100,
+		"Roll No": "21EUCCS095",
+		"CRN.": "21/270",
+		"Student Name": "RAGHVENDRA SINGH",
+		"Branch": "CSE"
+	},
+	"RAHUL KUMAWAT": {
+		"Sn": 101,
+		"Roll No": "21EUCCS096",
+		"CRN.": "21/271",
+		"Student Name": "RAHUL KUMAWAT",
+		"Branch": "CSE"
+	},
+	"RAJAT SHARMA": {
+		"Sn": 102,
+		"Roll No": "21EUCCS097",
+		"CRN.": "21/272",
+		"Student Name": "RAJAT SHARMA",
+		"Branch": "CSE"
+	},
+	"RISHABH": {
+		"Sn": 103,
+		"Roll No": "21EUCCS098",
+		"CRN.": "21/273",
+		"Student Name": "RISHABH",
+		"Branch": "CSE"
+	},
+	"RITIK ASHIWAL": {
+		"Sn": 104,
+		"Roll No": "21EUCCS099",
+		"CRN.": "21/274",
+		"Student Name": "RITIK ASHIWAL",
+		"Branch": "CSE"
+	},
+	"ROHIT KUMAR PANKAJ": {
+		"Sn": 105,
+		"Roll No": "21EUCCS100",
+		"CRN.": "21/275",
+		"Student Name": "ROHIT KUMAR PANKAJ",
+		"Branch": "CSE"
+	},
+	"RUNJHUN BHARDWAJ": {
+		"Sn": 106,
+		"Roll No": "21EUCCS101",
+		"CRN.": "21/276",
+		"Student Name": "RUNJHUN BHARDWAJ",
+		"Branch": "CSE"
+	},
+	"SAMYAK JAIN": {
+		"Sn": 107,
+		"Roll No": "21EUCCS102",
+		"CRN.": "21/277",
+		"Student Name": "SAMYAK JAIN",
+		"Branch": "CSE"
+	},
+	"SANDEEP SINGH GURJAR": {
+		"Sn": 108,
+		"Roll No": "21EUCCS103",
+		"CRN.": "21/278",
+		"Student Name": "SANDEEP SINGH GURJAR",
+		"Branch": "CSE"
+	},
+	"PRASHANTRAJAWAT": {
+		"Sn": 109,
+		"Roll No": "LEEP",
+		"CRN.": "22/633",
+		"Student Name": "PRASHANTRAJAWAT",
+		"Branch": "CSE"
+	},
+	"ROHIT TINKER": {
+		"Sn": 110,
+		"Roll No": "LEEP",
+		"CRN.": "22/634",
+		"Student Name": "ROHIT TINKER",
+		"Branch": "CSE"
+	},
+	"SANTOSH KUMAR MEENA": {
+		"Sn": 111,
+		"Roll No": "21EUCCS104",
+		"CRN.": "21/279",
+		"Student Name": "SANTOSH KUMAR MEENA",
+		"Branch": "CSE"
+	},
+	"SAURABH HARIT": {
+		"Sn": 112,
+		"Roll No": "21EUCCS105",
+		"CRN.": "21/280",
+		"Student Name": "SAURABH HARIT",
+		"Branch": "CSE"
+	},
+	"SAYYED AAZAM ALI": {
+		"Sn": 113,
+		"Roll No": "21EUCCS106",
+		"CRN.": "21/281",
+		"Student Name": "SAYYED AAZAM ALI",
+		"Branch": "CSE"
+	},
+	"SEEMA GURJAR": {
+		"Sn": 114,
+		"Roll No": "21EUCCS107",
+		"CRN.": "21/282",
+		"Student Name": "SEEMA GURJAR",
+		"Branch": "CSE"
+	},
+	"SHAURYA TEOTIA": {
+		"Sn": 115,
+		"Roll No": "21EUCCS108",
+		"CRN.": "21/283",
+		"Student Name": "SHAURYA TEOTIA",
+		"Branch": "CSE"
+	},
+	"SHIV SHANKAR MEENA": {
+		"Sn": 116,
+		"Roll No": "21EUCCS109",
+		"CRN.": "21/284",
+		"Student Name": "SHIV SHANKAR MEENA",
+		"Branch": "CSE"
+	},
+	"SUMANT KUMAR": {
+		"Sn": 117,
+		"Roll No": "21EUCCS110",
+		"CRN.": "21/285",
+		"Student Name": "SUMANT KUMAR",
+		"Branch": "CSE"
+	},
+	"TANMAY BANGIA": {
+		"Sn": 118,
+		"Roll No": "21EUCCS111",
+		"CRN.": "21/286",
+		"Student Name": "TANMAY BANGIA",
+		"Branch": "CSE"
+	},
+	"TARUN SARASWAT": {
+		"Sn": 119,
+		"Roll No": "21EUCCS112",
+		"CRN.": "21/287",
+		"Student Name": "TARUN SARASWAT",
+		"Branch": "CSE"
+	},
+	"TINKESH VERMA": {
+		"Sn": 120,
+		"Roll No": "21EUCCS113",
+		"CRN.": "21/288",
+		"Student Name": "TINKESH VERMA",
+		"Branch": "CSE"
+	},
+	"TUSHAR VAISHNAV": {
+		"Sn": 121,
+		"Roll No": "21EUCCS114",
+		"CRN.": "21/289",
+		"Student Name": "TUSHAR VAISHNAV",
+		"Branch": "CSE"
+	},
+	"VANSHIKA MAHESHWARI": {
+		"Sn": 122,
+		"Roll No": "21EUCCS115",
+		"CRN.": "21/290",
+		"Student Name": "VANSHIKA MAHESHWARI",
+		"Branch": "CSE"
+	},
+	"VIJAY PRATAP SINGH": {
+		"Sn": 123,
+		"Roll No": "21EUCCS116",
+		"CRN.": "21/291",
+		"Student Name": "VIJAY PRATAP SINGH",
+		"Branch": "CSE"
+	},
+	"VIKAS": {
+		"Sn": 124,
+		"Roll No": "21EUCCS117",
+		"CRN.": "21/292",
+		"Student Name": "VIKAS",
+		"Branch": "CSE"
+	},
+	"VIKAS CHOUDHARY": {
+		"Sn": 125,
+		"Roll No": "21EUCCS118",
+		"CRN.": "21/293",
+		"Student Name": "VIKAS CHOUDHARY",
+		"Branch": "CSE"
+	},
+	"VIKRAM SARAN": {
+		"Sn": 126,
+		"Roll No": "21EUCCS119",
+		"CRN.": "21/294",
+		"Student Name": "VIKRAM SARAN",
+		"Branch": "CSE"
+	},
+	"YATIN MODI": {
+		"Sn": 127,
+		"Roll No": "21EUCCS120",
+		"CRN.": "21/295",
+		"Student Name": "YATIN MODI",
+		"Branch": "CSE"
+	},
+	"YATISH JAIN": {
+		"Sn": 128,
+		"Roll No": "21EUCCS121",
+		"CRN.": "21/296",
+		"Student Name": "YATISH JAIN",
+		"Branch": "CSE"
+	},
+	"YOGESH SHARMA": {
+		"Sn": 129,
+		"Roll No": "21EUCCS122",
+		"CRN.": "21/297",
+		"Student Name": "YOGESH SHARMA",
+		"Branch": "CSE"
+	},
+	"YUGAL SAINI": {
+		"Sn": 130,
+		"Roll No": "21EUCCS123",
+		"CRN.": "21/298",
+		"Student Name": "YUGAL SAINI",
+		"Branch": "CSE"
+	},
+	"SAURABH OJHA": {
+		"Sn": 131,
+		"Roll No": "LEEP",
+		"CRN.": "22/635",
+		"Student Name": "SAURABH OJHA",
+		"Branch": "CSE"
+	},
+	"TARUN SHARMA": {
+		"Sn": 132,
+		"Roll No": "LEEP",
+		"CRN.": "22/636",
+		"Student Name": "TARUN SHARMA",
+		"Branch": "CSE"
+	},
+	"AADIL HUSSAIN": {
+		"Sn": 1,
+		"Roll No": "21EUCEE001",
+		"CRN.": "21/299",
+		"Student Name": "AADIL HUSSAIN",
+		"Branch": "EE"
+	},
+	"AASTHA SHRIVASTAVA": {
+		"Sn": 2,
+		"Roll No": "21EUCEE002",
+		"CRN.": "21/300",
+		"Student Name": "AASTHA SHRIVASTAVA",
+		"Branch": "EE"
+	},
+	"AASTHA VERMA": {
+		"Sn": 3,
+		"Roll No": "21EUCEE003",
+		"CRN.": "21/301",
+		"Student Name": "AASTHA VERMA",
+		"Branch": "EE"
+	},
+	"ABHINASH": {
+		"Sn": 4,
+		"Roll No": "21EUCEE004",
+		"CRN.": "21/302",
+		"Student Name": "ABHINASH",
+		"Branch": "EE"
+	},
+	"ADITI AGRAWAL": {
+		"Sn": 6,
+		"Roll No": "21EUCEE006",
+		"CRN.": "21/304",
+		"Student Name": "ADITI AGRAWAL",
+		"Branch": "EE"
+	},
+	"ADITYA GOSWAMI": {
+		"Sn": 7,
+		"Roll No": "21EUCEE007",
+		"CRN.": "21/305",
+		"Student Name": "ADITYA GOSWAMI",
+		"Branch": "EE"
+	},
+	"AJAY KUMAR YOGI": {
+		"Sn": 8,
+		"Roll No": "21EUCEE008",
+		"CRN.": "21/306",
+		"Student Name": "AJAY KUMAR YOGI",
+		"Branch": "EE"
+	},
+	"AKASH VERMA": {
+		"Sn": 9,
+		"Roll No": "21EUCEE009",
+		"CRN.": "21/307",
+		"Student Name": "AKASH VERMA",
+		"Branch": "EE"
+	},
+	"AKSHAT SHAH": {
+		"Sn": 10,
+		"Roll No": "21EUCEE010",
+		"CRN.": "21/308",
+		"Student Name": "AKSHAT SHAH",
+		"Branch": "EE"
+	},
+	"AKSHAT SUMAN": {
+		"Sn": 11,
+		"Roll No": "21EUCEE011",
+		"CRN.": "21/309",
+		"Student Name": "AKSHAT SUMAN",
+		"Branch": "EE"
+	},
+	"AKSHAY MAHAWAR": {
+		"Sn": 12,
+		"Roll No": "21EUCEE012",
+		"CRN.": "21/310",
+		"Student Name": "AKSHAY MAHAWAR",
+		"Branch": "EE"
+	},
+	"ANIL BHARIA": {
+		"Sn": 13,
+		"Roll No": "21EUCEE013",
+		"CRN.": "21/311",
+		"Student Name": "ANIL BHARIA",
+		"Branch": "EE"
+	},
+	"ANIL CHOUDHARY": {
+		"Sn": 14,
+		"Roll No": "21EUCEE014",
+		"CRN.": "21/312",
+		"Student Name": "ANIL CHOUDHARY",
+		"Branch": "EE"
+	},
+	"ANIMESH SHARMA": {
+		"Sn": 15,
+		"Roll No": "21EUCEE015",
+		"CRN.": "21/313",
+		"Student Name": "ANIMESH SHARMA",
+		"Branch": "EE"
+	},
+	"ANKIT DHAKAR": {
+		"Sn": 16,
+		"Roll No": "21EUCEE016",
+		"CRN.": "21/314",
+		"Student Name": "ANKIT DHAKAR",
+		"Branch": "EE"
+	},
+	"ANSHDEEP HADA": {
+		"Sn": 18,
+		"Roll No": "21EUCEE018",
+		"CRN.": "21/316",
+		"Student Name": "ANSHDEEP HADA",
+		"Branch": "EE"
+	},
+	"ANMOL SHARMA": {
+		"Sn": 19,
+		"Roll No": "LEEP",
+		"CRN.": "22/642",
+		"Student Name": "ANMOL SHARMA",
+		"Branch": "EE"
+	},
+	"DHARMENDRA RAJORIYA": {
+		"Sn": 20,
+		"Roll No": "LEEP",
+		"CRN.": "22/643",
+		"Student Name": "DHARMENDRA RAJORIYA",
+		"Branch": "EE"
+	},
+	"ANUPAM PANCHAL": {
+		"Sn": 21,
+		"Roll No": "21EUCEE019",
+		"CRN.": "21/317",
+		"Student Name": "ANUPAM PANCHAL",
+		"Branch": "EE"
+	},
+	"ANUSHKA KATARIA": {
+		"Sn": 22,
+		"Roll No": "21EUCEE020",
+		"CRN.": "21/318",
+		"Student Name": "ANUSHKA KATARIA",
+		"Branch": "EE"
+	},
+	"ANUSHKA SUMAN": {
+		"Sn": 23,
+		"Roll No": "21EUCEE021",
+		"CRN.": "21/319",
+		"Student Name": "ANUSHKA SUMAN",
+		"Branch": "EE"
+	},
+	"ARPIT KUMAWAT": {
+		"Sn": 24,
+		"Roll No": "21EUCEE022",
+		"CRN.": "21/320",
+		"Student Name": "ARPIT KUMAWAT",
+		"Branch": "EE"
+	},
+	"ARUN KUMAR": {
+		"Sn": 25,
+		"Roll No": "21EUCEE023",
+		"CRN.": "21/321",
+		"Student Name": "ARUN KUMAR",
+		"Branch": "EE"
+	},
+	"ARYAN HUSSAIN": {
+		"Sn": 26,
+		"Roll No": "21EUCEE024",
+		"CRN.": "21/322",
+		"Student Name": "ARYAN HUSSAIN",
+		"Branch": "EE"
+	},
+	"ASHISH SONI": {
+		"Sn": 27,
+		"Roll No": "21EUCEE025",
+		"CRN.": "21/323",
+		"Student Name": "ASHISH SONI",
+		"Branch": "EE"
+	},
+	"ASHWANI SINGH RATHORE": {
+		"Sn": 28,
+		"Roll No": "21EUCEE026",
+		"CRN.": "21/324",
+		"Student Name": "ASHWANI SINGH RATHORE",
+		"Branch": "EE"
+	},
+	"ASIF ALI": {
+		"Sn": 29,
+		"Roll No": "21EUCEE027",
+		"CRN.": "21/325",
+		"Student Name": "ASIF ALI",
+		"Branch": "EE"
+	},
+	"AVINASH NAGAR": {
+		"Sn": 30,
+		"Roll No": "21EUCEE028",
+		"CRN.": "21/326",
+		"Student Name": "AVINASH NAGAR",
+		"Branch": "EE"
+	},
+	"BHARAT MAHAWAR": {
+		"Sn": 31,
+		"Roll No": "21EUCEE029",
+		"CRN.": "21/327",
+		"Student Name": "BHARAT MAHAWAR",
+		"Branch": "EE"
+	},
+	"BHARTI MEENA": {
+		"Sn": 32,
+		"Roll No": "21EUCEE030",
+		"CRN.": "21/328",
+		"Student Name": "BHARTI MEENA",
+		"Branch": "EE"
+	},
+	"BHAVIK PARETA": {
+		"Sn": 33,
+		"Roll No": "21EUCEE031",
+		"CRN.": "21/329",
+		"Student Name": "BHAVIK PARETA",
+		"Branch": "EE"
+	},
+	"CHAHAT DIA": {
+		"Sn": 34,
+		"Roll No": "21EUCEE032",
+		"CRN.": "21/330",
+		"Student Name": "CHAHAT DIA",
+		"Branch": "EE"
+	},
+	"CHAITANYA SINGH": {
+		"Sn": 35,
+		"Roll No": "21EUCEE033",
+		"CRN.": "21/331",
+		"Student Name": "CHAITANYA SINGH",
+		"Branch": "EE"
+	},
+	"DAMAN KUMAR": {
+		"Sn": 36,
+		"Roll No": "21EUCEE034",
+		"CRN.": "21/332",
+		"Student Name": "DAMAN KUMAR",
+		"Branch": "EE"
+	},
+	"DEEPAK THAVRANI": {
+		"Sn": 37,
+		"Roll No": "21EUCEE035",
+		"CRN.": "21/333",
+		"Student Name": "DEEPAK THAVRANI",
+		"Branch": "EE"
+	},
+	"DEVESH KUMAR SATTAVAN": {
+		"Sn": 38,
+		"Roll No": "21EUCEE036",
+		"CRN.": "21/334",
+		"Student Name": "DEVESH KUMAR SATTAVAN",
+		"Branch": "EE"
+	},
+	"DRAVID MISHRA": {
+		"Sn": 39,
+		"Roll No": "LEEP",
+		"CRN.": "22/644",
+		"Student Name": "DRAVID MISHRA",
+		"Branch": "EE"
+	},
+	"HIMANSHU GAUR": {
+		"Sn": 40,
+		"Roll No": "LEEP",
+		"CRN.": "22/645",
+		"Student Name": "HIMANSHU GAUR",
+		"Branch": "EE"
+	},
+	"DIVYA RAJAWAT": {
+		"Sn": 41,
+		"Roll No": "21EUCEE037",
+		"CRN.": "21/335",
+		"Student Name": "DIVYA RAJAWAT",
+		"Branch": "EE"
+	},
+	"DIVYANSHU JOSHI": {
+		"Sn": 42,
+		"Roll No": "21EUCEE038",
+		"CRN.": "21/336",
+		"Student Name": "DIVYANSHU JOSHI",
+		"Branch": "EE"
+	},
+	"HARISH MALAV": {
+		"Sn": 43,
+		"Roll No": "21EUCEE039",
+		"CRN.": "21/337",
+		"Student Name": "HARISH MALAV",
+		"Branch": "EE"
+	},
+	"HARSH WARDHAN SINGH SHEKHAWAT": {
+		"Sn": 44,
+		"Roll No": "21EUCEE040",
+		"CRN.": "21/338",
+		"Student Name": "HARSH WARDHAN SINGH SHEKHAWAT",
+		"Branch": "EE"
+	},
+	"HEENA ANSARI": {
+		"Sn": 45,
+		"Roll No": "21EUCEE041",
+		"CRN.": "21/339",
+		"Student Name": "HEENA ANSARI",
+		"Branch": "EE"
+	},
+	"HEMANT BISU": {
+		"Sn": 46,
+		"Roll No": "21EUCEE042",
+		"CRN.": "21/340",
+		"Student Name": "HEMANT BISU",
+		"Branch": "EE"
+	},
+	"HEMANT KUMAR JANGID": {
+		"Sn": 47,
+		"Roll No": "21EUCEE043",
+		"CRN.": "21/341",
+		"Student Name": "HEMANT KUMAR JANGID",
+		"Branch": "EE"
+	},
+	"HEMANT PRAJAPAT": {
+		"Sn": 48,
+		"Roll No": "21EUCEE044",
+		"CRN.": "21/342",
+		"Student Name": "HEMANT PRAJAPAT",
+		"Branch": "EE"
+	},
+	"HIMANSHU SAINI": {
+		"Sn": 49,
+		"Roll No": "21EUCEE045",
+		"CRN.": "21/343",
+		"Student Name": "HIMANSHU SAINI",
+		"Branch": "EE"
+	},
+	"ISHAN KAUSHIK": {
+		"Sn": 50,
+		"Roll No": "21EUCEE046",
+		"CRN.": "21/344",
+		"Student Name": "ISHAN KAUSHIK",
+		"Branch": "EE"
+	},
+	"JAGDISH JANGID": {
+		"Sn": 51,
+		"Roll No": "21EUCEE047",
+		"CRN.": "21/345",
+		"Student Name": "JAGDISH JANGID",
+		"Branch": "EE"
+	},
+	"JAYANT SOLANKI": {
+		"Sn": 52,
+		"Roll No": "21EUCEE048",
+		"CRN.": "21/346",
+		"Student Name": "JAYANT SOLANKI",
+		"Branch": "EE"
+	},
+	"JEBA BANO": {
+		"Sn": 53,
+		"Roll No": "21EUCEE049",
+		"CRN.": "21/347",
+		"Student Name": "JEBA BANO",
+		"Branch": "EE"
+	},
+	"JINENDRA JAIN": {
+		"Sn": 54,
+		"Roll No": "21EUCEE050",
+		"CRN.": "21/348",
+		"Student Name": "JINENDRA JAIN",
+		"Branch": "EE"
+	},
+	"JITENDRA PURI GOSWAMI": {
+		"Sn": 55,
+		"Roll No": "21EUCEE051",
+		"CRN.": "21/349",
+		"Student Name": "JITENDRA PURI GOSWAMI",
+		"Branch": "EE"
+	},
+	"KALPESH GEHLOT": {
+		"Sn": 56,
+		"Roll No": "21EUCEE052",
+		"CRN.": "21/350",
+		"Student Name": "KALPESH GEHLOT",
+		"Branch": "EE"
+	},
+	"KINJAL JORWAL": {
+		"Sn": 57,
+		"Roll No": "21EUCEE053",
+		"CRN.": "21/351",
+		"Student Name": "KINJAL JORWAL",
+		"Branch": "EE"
+	},
+	"KRISHNA KANT SHARMA": {
+		"Sn": 58,
+		"Roll No": "21EUCEE054",
+		"CRN.": "21/352",
+		"Student Name": "KRISHNA KANT SHARMA",
+		"Branch": "EE"
+	},
+	"LOKESH PRAJAPAT": {
+		"Sn": 59,
+		"Roll No": "LEEP",
+		"CRN.": "22/646",
+		"Student Name": "LOKESH PRAJAPAT",
+		"Branch": "EE"
+	},
+	"MANISH KUMAR SAINI": {
+		"Sn": 60,
+		"Roll No": "LEEP",
+		"CRN.": "22/647",
+		"Student Name": "MANISH KUMAR SAINI",
+		"Branch": "EE"
+	},
+	"KRISHNA MAHUR": {
+		"Sn": 61,
+		"Roll No": "21EUCEE055",
+		"CRN.": "21/353",
+		"Student Name": "KRISHNA MAHUR",
+		"Branch": "EE"
+	},
+	"LAKSHIT GOYAL": {
+		"Sn": 62,
+		"Roll No": "21EUCEE056",
+		"CRN.": "21/354",
+		"Student Name": "LAKSHIT GOYAL",
+		"Branch": "EE"
+	},
+	"LAXITA MANOCHA": {
+		"Sn": 63,
+		"Roll No": "21EUCEE058",
+		"CRN.": "21/356",
+		"Student Name": "LAXITA MANOCHA",
+		"Branch": "EE"
+	},
+	"MAHAK GUPTA": {
+		"Sn": 64,
+		"Roll No": "21EUCEE059",
+		"CRN.": "21/357",
+		"Student Name": "MAHAK GUPTA",
+		"Branch": "EE"
+	},
+	"MANISH KUMAR JONEWAL": {
+		"Sn": 65,
+		"Roll No": "21EUCEE060",
+		"CRN.": "21/358",
+		"Student Name": "MANISH KUMAR JONEWAL",
+		"Branch": "EE"
+	},
+	"MANSI ANAND": {
+		"Sn": 66,
+		"Roll No": "21EUCEE061",
+		"CRN.": "21/359",
+		"Student Name": "MANSI ANAND",
+		"Branch": "EE"
+	},
+	"MAYANK GUPTA": {
+		"Sn": 67,
+		"Roll No": "21EUCEE063",
+		"CRN.": "21/361",
+		"Student Name": "MAYANK GUPTA",
+		"Branch": "EE"
+	},
+	"MEENU": {
+		"Sn": 68,
+		"Roll No": "21EUCEE064",
+		"CRN.": "21/362",
+		"Student Name": "MEENU",
+		"Branch": "EE"
+	},
+	"MEGHA": {
+		"Sn": 69,
+		"Roll No": "21EUCEE065",
+		"CRN.": "21/363",
+		"Student Name": "MEGHA",
+		"Branch": "EE"
+	},
+	"MEHVISH SHEIKH": {
+		"Sn": 70,
+		"Roll No": "21EUCEE066",
+		"CRN.": "21/364",
+		"Student Name": "MEHVISH SHEIKH",
+		"Branch": "EE"
+	},
+	"MILIND SONI": {
+		"Sn": 71,
+		"Roll No": "21EUCEE067",
+		"CRN.": "21/365",
+		"Student Name": "MILIND SONI",
+		"Branch": "EE"
+	},
+	"MOHIT KUKREJA": {
+		"Sn": 73,
+		"Roll No": "21EUCEE069",
+		"CRN.": "21/367",
+		"Student Name": "MOHIT KUKREJA",
+		"Branch": "EE"
+	},
+	"MOHIT SINGH": {
+		"Sn": 74,
+		"Roll No": "21EUCEE070",
+		"CRN.": "21/368",
+		"Student Name": "MOHIT SINGH",
+		"Branch": "EE"
+	},
+	"MOHIT YADAV": {
+		"Sn": 75,
+		"Roll No": "21EUCEE071",
+		"CRN.": "21/369",
+		"Student Name": "MOHIT YADAV",
+		"Branch": "EE"
+	},
+	"MUSTAFA BARANWALA": {
+		"Sn": 76,
+		"Roll No": "21EUCEE072",
+		"CRN.": "21/370",
+		"Student Name": "MUSTAFA BARANWALA",
+		"Branch": "EE"
+	},
+	"NIHURSH NARAYAN": {
+		"Sn": 77,
+		"Roll No": "21EUCEE073",
+		"CRN.": "21/371",
+		"Student Name": "NIHURSH NARAYAN",
+		"Branch": "EE"
+	},
+	"NISHANT BHARTI": {
+		"Sn": 78,
+		"Roll No": "21EUCEE074",
+		"CRN.": "21/372",
+		"Student Name": "NISHANT BHARTI",
+		"Branch": "EE"
+	},
+	"MOHD AKBAR SALEEM": {
+		"Sn": 79,
+		"Roll No": "LEEP",
+		"CRN.": "22/648",
+		"Student Name": "MOHD AKBAR SALEEM",
+		"Branch": "EE"
+	},
+	"NEHA JATAV": {
+		"Sn": 80,
+		"Roll No": "LEEP",
+		"CRN.": "22/649",
+		"Student Name": "NEHA JATAV",
+		"Branch": "EE"
+	},
+	"NITISH KUMAR": {
+		"Sn": 81,
+		"Roll No": "21EUCEE075",
+		"CRN.": "21/373",
+		"Student Name": "NITISH KUMAR",
+		"Branch": "EE"
+	},
+	"PIYUSH RAGHUVANSHI": {
+		"Sn": 82,
+		"Roll No": "21EUCEE076",
+		"CRN.": "21/374",
+		"Student Name": "PIYUSH RAGHUVANSHI",
+		"Branch": "EE"
+	},
+	"PIYUSH VAISHNAV": {
+		"Sn": 83,
+		"Roll No": "21EUCEE077",
+		"CRN.": "21/375",
+		"Student Name": "PIYUSH VAISHNAV",
+		"Branch": "EE"
+	},
+	"PRASHANT KUMAR MEENA": {
+		"Sn": 84,
+		"Roll No": "21EUCEE078",
+		"CRN.": "21/376",
+		"Student Name": "PRASHANT KUMAR MEENA",
+		"Branch": "EE"
+	},
+	"PRIYANSHU": {
+		"Sn": 85,
+		"Roll No": "21EUCEE079",
+		"CRN.": "21/377",
+		"Student Name": "PRIYANSHU",
+		"Branch": "EE"
+	},
+	"PRIYANSHU TIWARI": {
+		"Sn": 86,
+		"Roll No": "21EUCEE080",
+		"CRN.": "21/378",
+		"Student Name": "PRIYANSHU TIWARI",
+		"Branch": "EE"
+	},
+	"PULKIT PAREEK": {
+		"Sn": 87,
+		"Roll No": "21EUCEE081",
+		"CRN.": "21/379",
+		"Student Name": "PULKIT PAREEK",
+		"Branch": "EE"
+	},
+	"RACHIT KUMAR MEENA": {
+		"Sn": 88,
+		"Roll No": "21EUCEE082",
+		"CRN.": "21/380",
+		"Student Name": "RACHIT KUMAR MEENA",
+		"Branch": "EE"
+	},
+	"RAHIL JAVED": {
+		"Sn": 89,
+		"Roll No": "21EUCEE083",
+		"CRN.": "21/381",
+		"Student Name": "RAHIL JAVED",
+		"Branch": "EE"
+	},
+	"RAHUL KUMAR KHINCHI": {
+		"Sn": 90,
+		"Roll No": "21EUCEE084",
+		"CRN.": "21/382",
+		"Student Name": "RAHUL KUMAR KHINCHI",
+		"Branch": "EE"
+	},
+	"RAHUL SHARMA": {
+		"Sn": 91,
+		"Roll No": "21EUCEE085",
+		"CRN.": "21/383",
+		"Student Name": "RAHUL SHARMA",
+		"Branch": "EE"
+	},
+	"RAHUL SUMAN": {
+		"Sn": 92,
+		"Roll No": "21EUCEE086",
+		"CRN.": "21/384",
+		"Student Name": "RAHUL SUMAN",
+		"Branch": "EE"
+	},
+	"RAJAT KUMAR MANGAL": {
+		"Sn": 93,
+		"Roll No": "21EUCEE087",
+		"CRN.": "21/385",
+		"Student Name": "RAJAT KUMAR MANGAL",
+		"Branch": "EE"
+	},
+	"RANA OM ARUN": {
+		"Sn": 94,
+		"Roll No": "21EUCEE088",
+		"CRN.": "21/386",
+		"Student Name": "RANA OM ARUN",
+		"Branch": "EE"
+	},
+	"RAVI BORANA": {
+		"Sn": 95,
+		"Roll No": "21EUCEE089",
+		"CRN.": "21/387",
+		"Student Name": "RAVI BORANA",
+		"Branch": "EE"
+	},
+	"ROHIT RANA": {
+		"Sn": 96,
+		"Roll No": "21EUCEE090",
+		"CRN.": "21/388",
+		"Student Name": "ROHIT RANA",
+		"Branch": "EE"
+	},
+	"SACHIN MAAN": {
+		"Sn": 97,
+		"Roll No": "21EUCEE091",
+		"CRN.": "21/389",
+		"Student Name": "SACHIN MAAN",
+		"Branch": "EE"
+	},
+	"SACHIN RATHORE": {
+		"Sn": 98,
+		"Roll No": "21EUCEE092",
+		"CRN.": "21/390",
+		"Student Name": "SACHIN RATHORE",
+		"Branch": "EE"
+	},
+	"SACHIN SONI": {
+		"Sn": 99,
+		"Roll No": "21EUCEE093",
+		"CRN.": "21/391",
+		"Student Name": "SACHIN SONI",
+		"Branch": "EE"
+	},
+	"PRABHA SHANKAR": {
+		"Sn": 100,
+		"Roll No": "LEEP",
+		"CRN.": "22/650",
+		"Student Name": "PRABHA SHANKAR",
+		"Branch": "EE"
+	},
+	"SARJIT KALOIYA": {
+		"Sn": 101,
+		"Roll No": "LEEP",
+		"CRN.": "22/651",
+		"Student Name": "SARJIT KALOIYA",
+		"Branch": "EE"
+	},
+	"SANDALI SINGH VERMA": {
+		"Sn": 102,
+		"Roll No": "21EUCEE094",
+		"CRN.": "21/392",
+		"Student Name": "SANDALI SINGH VERMA",
+		"Branch": "EE"
+	},
+	"SANIDHYA SHARMA": {
+		"Sn": 103,
+		"Roll No": "21EUCEE095",
+		"CRN.": "21/393",
+		"Student Name": "SANIDHYA SHARMA",
+		"Branch": "EE"
+	},
+	"SHASHANK SHRIVASTAVA": {
+		"Sn": 104,
+		"Roll No": "21EUCEE097",
+		"CRN.": "21/395",
+		"Student Name": "SHASHANK SHRIVASTAVA",
+		"Branch": "EE"
+	},
+	"SHUBHAM VAISHNAV": {
+		"Sn": 105,
+		"Roll No": "21EUCEE098",
+		"CRN.": "21/396",
+		"Student Name": "SHUBHAM VAISHNAV",
+		"Branch": "EE"
+	},
+	"SHUHANGI SAMBARIYA": {
+		"Sn": 106,
+		"Roll No": "21EUCEE099",
+		"CRN.": "21/397",
+		"Student Name": "SHUHANGI SAMBARIYA",
+		"Branch": "EE"
+	},
+	"SOMIL JAIN": {
+		"Sn": 107,
+		"Roll No": "21EUCEE100",
+		"CRN.": "21/398",
+		"Student Name": "SOMIL JAIN",
+		"Branch": "EE"
+	},
+	"SONU GURJAR": {
+		"Sn": 108,
+		"Roll No": "21EUCEE101",
+		"CRN.": "21/399",
+		"Student Name": "SONU GURJAR",
+		"Branch": "EE"
+	},
+	"SOURAV MARMAT": {
+		"Sn": 109,
+		"Roll No": "21EUCEE102",
+		"CRN.": "21/400",
+		"Student Name": "SOURAV MARMAT",
+		"Branch": "EE"
+	},
+	"SUBRAT KUMAR SWAIN": {
+		"Sn": 110,
+		"Roll No": "21EUCEE103",
+		"CRN.": "21/401",
+		"Student Name": "SUBRAT KUMAR SWAIN",
+		"Branch": "EE"
+	},
+	"SUDHANSHU SHARMA": {
+		"Sn": 111,
+		"Roll No": "21EUCEE104",
+		"CRN.": "21/402",
+		"Student Name": "SUDHANSHU SHARMA",
+		"Branch": "EE"
+	},
+	"SUNIL KUMAR ROYAL": {
+		"Sn": 112,
+		"Roll No": "21EUCEE105",
+		"CRN.": "21/403",
+		"Student Name": "SUNIL KUMAR ROYAL",
+		"Branch": "EE"
+	},
+	"TOSHITA SUMAN": {
+		"Sn": 113,
+		"Roll No": "21EUCEE106",
+		"CRN.": "21/404",
+		"Student Name": "TOSHITA SUMAN",
+		"Branch": "EE"
+	},
+	"TUSHAR GOYANKA": {
+		"Sn": 114,
+		"Roll No": "21EUCEE107",
+		"CRN.": "21/405",
+		"Student Name": "TUSHAR GOYANKA",
+		"Branch": "EE"
+	},
+	"TUSHAR SINGH": {
+		"Sn": 115,
+		"Roll No": "21EUCEE108",
+		"CRN.": "21/406",
+		"Student Name": "TUSHAR SINGH",
+		"Branch": "EE"
+	},
+	"UMESH SHARMA": {
+		"Sn": 116,
+		"Roll No": "21EUCEE109",
+		"CRN.": "21/407",
+		"Student Name": "UMESH SHARMA",
+		"Branch": "EE"
+	},
+	"VAISHALI HADA": {
+		"Sn": 117,
+		"Roll No": "21EUCEE110",
+		"CRN.": "21/408",
+		"Student Name": "VAISHALI HADA",
+		"Branch": "EE"
+	},
+	"VANSHIKA SHARMA": {
+		"Sn": 118,
+		"Roll No": "21EUCEE111",
+		"CRN.": "21/409",
+		"Student Name": "VANSHIKA SHARMA",
+		"Branch": "EE"
+	},
+	"VIKRAM KUMAWAT": {
+		"Sn": 119,
+		"Roll No": "21EUCEE112",
+		"CRN.": "21/410",
+		"Student Name": "VIKRAM KUMAWAT",
+		"Branch": "EE"
+	},
+	"YAGYA BODANA": {
+		"Sn": 120,
+		"Roll No": "21EUCEE114",
+		"CRN.": "21/412",
+		"Student Name": "YAGYA BODANA",
+		"Branch": "EE"
+	},
+	"SHAILBALA MALAV": {
+		"Sn": 121,
+		"Roll No": "LEEP",
+		"CRN.": "22/652",
+		"Student Name": "SHAILBALA MALAV",
+		"Branch": "EE"
+	},
+	"YUVRAJ SINGH": {
+		"Sn": 122,
+		"Roll No": "LEEP",
+		"CRN.": "22/653",
+		"Student Name": "YUVRAJ SINGH",
+		"Branch": "EE"
+	},
+	"ABHIJEET SHARMA": {
+		"Sn": 1,
+		"Roll No": "21EUCEI001",
+		"CRN.": "21/539",
+		"Student Name": "ABHIJEET SHARMA",
+		"Branch": "EIC(GAS)"
+	},
+	"APURVA GARG": {
+		"Sn": 2,
+		"Roll No": "21EUCEI002",
+		"CRN.": "21/540",
+		"Student Name": "APURVA GARG",
+		"Branch": "EIC(GAS)"
+	},
+	"ATIF MOHAMMAD PATHAN": {
+		"Sn": 3,
+		"Roll No": "21EUCEI004",
+		"CRN.": "21/542",
+		"Student Name": "ATIF MOHAMMAD PATHAN",
+		"Branch": "EIC(GAS)"
+	},
+	"DARSH CHATTER": {
+		"Sn": 4,
+		"Roll No": "21EUCEI005",
+		"CRN.": "21/543",
+		"Student Name": "DARSH CHATTER",
+		"Branch": "EIC(GAS)"
+	},
+	"DIVYA AGRAWAL": {
+		"Sn": 5,
+		"Roll No": "21EUCEI006",
+		"CRN.": "21/562",
+		"Student Name": "DIVYA AGRAWAL",
+		"Branch": "EIC(GAS)"
+	},
+	"GAURI BHARDWAJ": {
+		"Sn": 6,
+		"Roll No": "21EUCEI007",
+		"CRN.": "21/538",
+		"Student Name": "GAURI BHARDWAJ",
+		"Branch": "EIC(SFS)"
+	},
+	"HARISH SUMAN": {
+		"Sn": 7,
+		"Roll No": "21EUCEI008",
+		"CRN.": "21/544",
+		"Student Name": "HARISH SUMAN",
+		"Branch": "EIC(GAS)"
+	},
+	"HIMANSHU PARSOYA": {
+		"Sn": 8,
+		"Roll No": "21EUCEI009",
+		"CRN.": "21/545",
+		"Student Name": "HIMANSHU PARSOYA",
+		"Branch": "EIC(GAS)"
+	},
+	"ISHAN KHAN": {
+		"Sn": 9,
+		"Roll No": "21EUCEI010",
+		"CRN.": "21/546",
+		"Student Name": "ISHAN KHAN",
+		"Branch": "EIC(GAS)"
+	},
+	"KUNJAL RAI": {
+		"Sn": 10,
+		"Roll No": "21EUCEI011",
+		"CRN.": "21/547",
+		"Student Name": "KUNJAL RAI",
+		"Branch": "EIC(GAS)"
+	},
+	"MAHESH KUMAR": {
+		"Sn": 11,
+		"Roll No": "21EUCEI012",
+		"CRN.": "21/548",
+		"Student Name": "MAHESH KUMAR",
+		"Branch": "EIC(GAS)"
+	},
+	"MANISH KUMAR DHAKER": {
+		"Sn": 12,
+		"Roll No": "21EUCEI013",
+		"CRN.": "21/549",
+		"Student Name": "MANISH KUMAR DHAKER",
+		"Branch": "EIC(GAS)"
+	},
+	"MANISH SAHU": {
+		"Sn": 13,
+		"Roll No": "21EUCEI014",
+		"CRN.": "21/550",
+		"Student Name": "MANISH SAHU",
+		"Branch": "EIC(GAS)"
+	},
+	"MOHIT TAK": {
+		"Sn": 14,
+		"Roll No": "21EUCEI016",
+		"CRN.": "21/552",
+		"Student Name": "MOHIT TAK",
+		"Branch": "EIC(GAS)"
+	},
+	"PARSHAV GARG": {
+		"Sn": 15,
+		"Roll No": "21EUCEI017",
+		"CRN.": "21/553",
+		"Student Name": "PARSHAV GARG",
+		"Branch": "EIC(GAS)"
+	},
+	"PRIYANSHI GUPTA": {
+		"Sn": 16,
+		"Roll No": "21EUCEI018",
+		"CRN.": "21/554",
+		"Student Name": "PRIYANSHI GUPTA",
+		"Branch": "EIC(GAS)"
+	},
+	"RISHAB SINGH HADA": {
+		"Sn": 17,
+		"Roll No": "21EUCEI019",
+		"CRN.": "21/555",
+		"Student Name": "RISHAB SINGH HADA",
+		"Branch": "EIC(GAS)"
+	},
+	"SHUBHAM MAHAAWAR": {
+		"Sn": 18,
+		"Roll No": "21EUCEI020",
+		"CRN.": "21/556",
+		"Student Name": "SHUBHAM MAHAAWAR",
+		"Branch": "EIC(GAS)"
+	},
+	"SHYAM CHAWLA": {
+		"Sn": 19,
+		"Roll No": "21EUCEI021",
+		"CRN.": "21/557",
+		"Student Name": "SHYAM CHAWLA",
+		"Branch": "EIC(GAS)"
+	},
+	"TAPESH SAHU": {
+		"Sn": 20,
+		"Roll No": "21EUCEI022",
+		"CRN.": "21/558",
+		"Student Name": "TAPESH SAHU",
+		"Branch": "EIC(GAS)"
+	},
+	"UTTAM PAL JADON": {
+		"Sn": 21,
+		"Roll No": "21EUCEI023",
+		"CRN.": "21/559",
+		"Student Name": "UTTAM PAL JADON",
+		"Branch": "EIC(GAS)"
+	},
+	"VARUN CHAURASIA": {
+		"Sn": 22,
+		"Roll No": "21EUCEI024",
+		"CRN.": "21/560",
+		"Student Name": "VARUN CHAURASIA",
+		"Branch": "EIC(GAS)"
+	},
+	"VEDANT SINGH RAJAWAT": {
+		"Sn": 23,
+		"Roll No": "21EUCEI025",
+		"CRN.": "21/561",
+		"Student Name": "VEDANT SINGH RAJAWAT",
+		"Branch": "EIC(GAS)"
+	},
+	"AAROHI SHARMA": {
+		"Sn": 1,
+		"Roll No": "21EUCEC001",
+		"CRN.": "21/474",
+		"Student Name": "AAROHI SHARMA",
+		"Branch": "ECE"
+	},
+	"ABHINAV SINGH": {
+		"Sn": 2,
+		"Roll No": "21EUCEC002",
+		"CRN.": "21/475",
+		"Student Name": "ABHINAV SINGH",
+		"Branch": "ECE"
+	},
+	"AHMDULLAH": {
+		"Sn": 3,
+		"Roll No": "21EUCEC003",
+		"CRN.": "21/476",
+		"Student Name": "AHMDULLAH",
+		"Branch": "ECE"
+	},
+	"AKASH JAIN": {
+		"Sn": 4,
+		"Roll No": "21EUCEC004",
+		"CRN.": "21/477",
+		"Student Name": "AKASH JAIN",
+		"Branch": "ECE"
+	},
+	"AKSHITA MAHESHWARI": {
+		"Sn": 5,
+		"Roll No": "21EUCEC005",
+		"CRN.": "21/478",
+		"Student Name": "AKSHITA MAHESHWARI",
+		"Branch": "ECE"
+	},
+	"ANANT JAIN": {
+		"Sn": 6,
+		"Roll No": "21EUCEC006",
+		"CRN.": "21/479",
+		"Student Name": "ANANT JAIN",
+		"Branch": "ECE"
+	},
+	"ANANYA VAIDYA": {
+		"Sn": 7,
+		"Roll No": "21EUCEC007",
+		"CRN.": "21/480",
+		"Student Name": "ANANYA VAIDYA",
+		"Branch": "ECE"
+	},
+	"ANIKET SAINI": {
+		"Sn": 8,
+		"Roll No": "21EUCEC008",
+		"CRN.": "21/481",
+		"Student Name": "ANIKET SAINI",
+		"Branch": "ECE"
+	},
+	"ANIRUDH TOLAMBIA": {
+		"Sn": 9,
+		"Roll No": "21EUCEC009",
+		"CRN.": "21/482",
+		"Student Name": "ANIRUDH TOLAMBIA",
+		"Branch": "ECE"
+	},
+	"ANUJ SHARMA": {
+		"Sn": 10,
+		"Roll No": "21EUCEC010",
+		"CRN.": "21/483",
+		"Student Name": "ANUJ SHARMA",
+		"Branch": "ECE"
+	},
+	"ANURAG GAUR": {
+		"Sn": 11,
+		"Roll No": "21EUCEC011",
+		"CRN.": "21/484",
+		"Student Name": "ANURAG GAUR",
+		"Branch": "ECE"
+	},
+	"ANUSHKA GULATI": {
+		"Sn": 12,
+		"Roll No": "21EUCEC012",
+		"CRN.": "21/485",
+		"Student Name": "ANUSHKA GULATI",
+		"Branch": "ECE"
+	},
+	"AYUSHI RATHORE": {
+		"Sn": 13,
+		"Roll No": "21EUCEC013",
+		"CRN.": "21/486",
+		"Student Name": "AYUSHI RATHORE",
+		"Branch": "ECE"
+	},
+	"DEEPA CHOURASIA": {
+		"Sn": 14,
+		"Roll No": "21EUCEC014",
+		"CRN.": "21/487",
+		"Student Name": "DEEPA CHOURASIA",
+		"Branch": "ECE"
+	},
+	"DEEPAL RATHORE": {
+		"Sn": 15,
+		"Roll No": "21EUCEC015",
+		"CRN.": "21/488",
+		"Student Name": "DEEPAL RATHORE",
+		"Branch": "ECE"
+	},
+	"DHIRAJ DILIP MEHTA": {
+		"Sn": 16,
+		"Roll No": "21EUCEC016",
+		"CRN.": "21/489",
+		"Student Name": "DHIRAJ DILIP MEHTA",
+		"Branch": "ECE"
+	},
+	"AKASH SHARMA": {
+		"Sn": 17,
+		"Roll No": "LEEP",
+		"CRN.": "22/637",
+		"Student Name": "AKASH SHARMA",
+		"Branch": "ECE"
+	},
+	"DISHA MITTAL": {
+		"Sn": 18,
+		"Roll No": "21EUCEC017",
+		"CRN.": "21/490",
+		"Student Name": "DISHA MITTAL",
+		"Branch": "ECE"
+	},
+	"GAURAV GIRIDHAR": {
+		"Sn": 19,
+		"Roll No": "21EUCEC018",
+		"CRN.": "21/491",
+		"Student Name": "GAURAV GIRIDHAR",
+		"Branch": "ECE"
+	},
+	"HARSHITA HADA": {
+		"Sn": 20,
+		"Roll No": "21EUCEC019",
+		"CRN.": "21/492",
+		"Student Name": "HARSHITA HADA",
+		"Branch": "ECE"
+	},
+	"HARSHITA PANCHOLI": {
+		"Sn": 21,
+		"Roll No": "21EUCEC020",
+		"CRN.": "21/493",
+		"Student Name": "HARSHITA PANCHOLI",
+		"Branch": "ECE"
+	},
+	"HARSHVARDHAN SINGH JHALA": {
+		"Sn": 22,
+		"Roll No": "21EUCEC021",
+		"CRN.": "21/494",
+		"Student Name": "HARSHVARDHAN SINGH JHALA",
+		"Branch": "ECE"
+	},
+	"HERAMB PAREEK": {
+		"Sn": 23,
+		"Roll No": "21EUCEC022",
+		"CRN.": "21/495",
+		"Student Name": "HERAMB PAREEK",
+		"Branch": "ECE"
+	},
+	"HIMANSHU": {
+		"Sn": 24,
+		"Roll No": "21EUCEC023",
+		"CRN.": "21/496",
+		"Student Name": "HIMANSHU",
+		"Branch": "ECE"
+	},
+	"HIMANSHU AGARWAL": {
+		"Sn": 25,
+		"Roll No": "21EUCEC024",
+		"CRN.": "21/497",
+		"Student Name": "HIMANSHU AGARWAL",
+		"Branch": "ECE"
+	},
+	"HIMANSHU MEENA": {
+		"Sn": 26,
+		"Roll No": "21EUCEC025",
+		"CRN.": "21/498",
+		"Student Name": "HIMANSHU MEENA",
+		"Branch": "ECE"
+	},
+	"JHALAK CHAUHAN": {
+		"Sn": 28,
+		"Roll No": "21EUCEC028",
+		"CRN.": "21/501",
+		"Student Name": "JHALAK CHAUHAN",
+		"Branch": "ECE"
+	},
+	"KANISHK JAIN": {
+		"Sn": 29,
+		"Roll No": "21EUCEC029",
+		"CRN.": "21/502",
+		"Student Name": "KANISHK JAIN",
+		"Branch": "ECE"
+	},
+	"KAPIL SARAN": {
+		"Sn": 30,
+		"Roll No": "21EUCEC030",
+		"CRN.": "21/503",
+		"Student Name": "KAPIL SARAN",
+		"Branch": "ECE"
+	},
+	"KARAN SETHI": {
+		"Sn": 31,
+		"Roll No": "21EUCEC031",
+		"CRN.": "21/504",
+		"Student Name": "KARAN SETHI",
+		"Branch": "ECE"
+	},
+	"KESHAV VIJAYVARGIA": {
+		"Sn": 32,
+		"Roll No": "21EUCEC032",
+		"CRN.": "21/505",
+		"Student Name": "KESHAV VIJAYVARGIA",
+		"Branch": "ECE"
+	},
+	"KHUSHI PARETA": {
+		"Sn": 33,
+		"Roll No": "21EUCEC033",
+		"CRN.": "21/506",
+		"Student Name": "KHUSHI PARETA",
+		"Branch": "ECE"
+	},
+	"GOURAV TAILOR": {
+		"Sn": 34,
+		"Roll No": "LEEP",
+		"CRN.": "22/638",
+		"Student Name": "GOURAV TAILOR",
+		"Branch": "ECE"
+	},
+	"KHUSHLESH KUMAR": {
+		"Sn": 35,
+		"Roll No": "21EUCEC034",
+		"CRN.": "21/507",
+		"Student Name": "KHUSHLESH KUMAR",
+		"Branch": "ECE"
+	},
+	"KRISHI PATHAK": {
+		"Sn": 36,
+		"Roll No": "21EUCEC035",
+		"CRN.": "21/508",
+		"Student Name": "KRISHI PATHAK",
+		"Branch": "ECE"
+	},
+	"KRITI SHARMA": {
+		"Sn": 37,
+		"Roll No": "21EUCEC036",
+		"CRN.": "21/509",
+		"Student Name": "KRITI SHARMA",
+		"Branch": "ECE"
+	},
+	"MANISH CHAUHAN": {
+		"Sn": 38,
+		"Roll No": "21EUCEC037",
+		"CRN.": "21/510",
+		"Student Name": "MANISH CHAUHAN",
+		"Branch": "ECE"
+	},
+	"MAYANK RAJ": {
+		"Sn": 39,
+		"Roll No": "21EUCEC038",
+		"CRN.": "21/511",
+		"Student Name": "MAYANK RAJ",
+		"Branch": "ECE"
+	},
+	"MOHAMMED": {
+		"Sn": 40,
+		"Roll No": "21EUCEC039",
+		"CRN.": "21/512",
+		"Student Name": "MOHAMMED",
+		"Branch": "ECE"
+	},
+	"MOHIT SHARMA": {
+		"Sn": 41,
+		"Roll No": "21EUCEC040",
+		"CRN.": "21/513",
+		"Student Name": "MOHIT SHARMA",
+		"Branch": "ECE"
+	},
+	"MOIN KHAN": {
+		"Sn": 42,
+		"Roll No": "21EUCEC041",
+		"CRN.": "21/514",
+		"Student Name": "MOIN KHAN",
+		"Branch": "ECE"
+	},
+	"MUKUL KINKER": {
+		"Sn": 43,
+		"Roll No": "21EUCEC042",
+		"CRN.": "21/515",
+		"Student Name": "MUKUL KINKER",
+		"Branch": "ECE"
+	},
+	"MUSKAN JETHWANI": {
+		"Sn": 44,
+		"Roll No": "21EUCEC043",
+		"CRN.": "21/516",
+		"Student Name": "MUSKAN JETHWANI",
+		"Branch": "ECE"
+	},
+	"NAMAN SINGHVI": {
+		"Sn": 45,
+		"Roll No": "21EUCEC044",
+		"CRN.": "21/517",
+		"Student Name": "NAMAN SINGHVI",
+		"Branch": "ECE"
+	},
+	"NEHA RAWAL": {
+		"Sn": 46,
+		"Roll No": "21EUCEC045",
+		"CRN.": "21/518",
+		"Student Name": "NEHA RAWAL",
+		"Branch": "ECE"
+	},
+	"OJAS SHARMA": {
+		"Sn": 47,
+		"Roll No": "21EUCEC046",
+		"CRN.": "21/519",
+		"Student Name": "OJAS SHARMA",
+		"Branch": "ECE"
+	},
+	"PRAGYA SINGH HADA": {
+		"Sn": 48,
+		"Roll No": "21EUCEC047",
+		"CRN.": "21/520",
+		"Student Name": "PRAGYA SINGH HADA",
+		"Branch": "ECE"
+	},
+	"RAKSHIT KHARNIWAL": {
+		"Sn": 49,
+		"Roll No": "21EUCEC048",
+		"CRN.": "21/521",
+		"Student Name": "RAKSHIT KHARNIWAL",
+		"Branch": "ECE"
+	},
+	"RISHABH JAIN": {
+		"Sn": 50,
+		"Roll No": "21EUCEC049",
+		"CRN.": "21/522",
+		"Student Name": "RISHABH JAIN",
+		"Branch": "ECE"
+	},
+	"HEMANT CHAHAR": {
+		"Sn": 51,
+		"Roll No": "LEEP",
+		"CRN.": "22/639",
+		"Student Name": "HEMANT CHAHAR",
+		"Branch": "ECE"
+	},
+	"RIYA SUTHAR": {
+		"Sn": 52,
+		"Roll No": "21EUCEC050",
+		"CRN.": "21/523",
+		"Student Name": "RIYA SUTHAR",
+		"Branch": "ECE"
+	},
+	"SAHARSH MAHAWAR": {
+		"Sn": 53,
+		"Roll No": "21EUCEC051",
+		"CRN.": "21/524",
+		"Student Name": "SAHARSH MAHAWAR",
+		"Branch": "ECE"
+	},
+	"SALONI AGRAWAL": {
+		"Sn": 54,
+		"Roll No": "21EUCEC052",
+		"CRN.": "21/525",
+		"Student Name": "SALONI AGRAWAL",
+		"Branch": "ECE"
+	},
+	"SANDEEP SINGH": {
+		"Sn": 55,
+		"Roll No": "21EUCEC053",
+		"CRN.": "21/526",
+		"Student Name": "SANDEEP SINGH",
+		"Branch": "ECE"
+	},
+	"SAURABH KUMAR": {
+		"Sn": 56,
+		"Roll No": "21EUCEC054",
+		"CRN.": "21/527",
+		"Student Name": "SAURABH KUMAR",
+		"Branch": "ECE"
+	},
+	"SHRAWAN SWAMI": {
+		"Sn": 57,
+		"Roll No": "21EUCEC055",
+		"CRN.": "21/528",
+		"Student Name": "SHRAWAN SWAMI",
+		"Branch": "ECE"
+	},
+	"SHUBHAM SINGH": {
+		"Sn": 58,
+		"Roll No": "21EUCEC056",
+		"CRN.": "21/529",
+		"Student Name": "SHUBHAM SINGH",
+		"Branch": "ECE"
+	},
+	"SHUBHAM SONI": {
+		"Sn": 59,
+		"Roll No": "21EUCEC057",
+		"CRN.": "21/530",
+		"Student Name": "SHUBHAM SONI",
+		"Branch": "ECE"
+	},
+	"SOMYA SHARMA": {
+		"Sn": 60,
+		"Roll No": "21EUCEC058",
+		"CRN.": "21/531",
+		"Student Name": "SOMYA SHARMA",
+		"Branch": "ECE"
+	},
+	"SUNIL ACHARYA": {
+		"Sn": 61,
+		"Roll No": "21EUCEC060",
+		"CRN.": "21/533",
+		"Student Name": "SUNIL ACHARYA",
+		"Branch": "ECE"
+	},
+	"SUNIL KUMAR SAINI": {
+		"Sn": 62,
+		"Roll No": "21EUCEC061",
+		"CRN.": "21/534",
+		"Student Name": "SUNIL KUMAR SAINI",
+		"Branch": "ECE"
+	},
+	"VIDUSHI JAIN": {
+		"Sn": 63,
+		"Roll No": "21EUCEC062",
+		"CRN.": "21/535",
+		"Student Name": "VIDUSHI JAIN",
+		"Branch": "ECE"
+	},
+	"VISHWA GAURAV": {
+		"Sn": 64,
+		"Roll No": "21EUCEC063",
+		"CRN.": "21/536",
+		"Student Name": "VISHWA GAURAV",
+		"Branch": "ECE"
+	},
+	"YUG SEHGAL": {
+		"Sn": 65,
+		"Roll No": "21EUCEC064",
+		"CRN.": "21/537",
+		"Student Name": "YUG SEHGAL",
+		"Branch": "ECE"
+	},
+	"ROHIT KUMAR": {
+		"Sn": 29,
+		"Roll No": "21EUCME026",
+		"CRN.": "21/456",
+		"Student Name": "ROHIT KUMAR",
+		"Branch": "ME"
+	},
+	"SANJAY KUMAR": {
+		"Sn": 67,
+		"Roll No": "LEEP",
+		"CRN.": "22/641",
+		"Student Name": "SANJAY KUMAR",
+		"Branch": "ECE"
+	},
+	"AASTHA JAIN": {
+		"Sn": 1,
+		"Roll No": "21EUCIT001",
+		"CRN.": "21/413",
+		"Student Name": "AASTHA JAIN",
+		"Branch": "IT"
+	},
+	"ADITYA VAISHNAV": {
+		"Sn": 2,
+		"Roll No": "21EUCIT002",
+		"CRN.": "21/414",
+		"Student Name": "ADITYA VAISHNAV",
+		"Branch": "IT"
+	},
+	"ANSH GOCHAR": {
+		"Sn": 3,
+		"Roll No": "21EUCIT003",
+		"CRN.": "21/415",
+		"Student Name": "ANSH GOCHAR",
+		"Branch": "IT"
+	},
+	"ANSH JAIN": {
+		"Sn": 4,
+		"Roll No": "21EUCIT004",
+		"CRN.": "21/416",
+		"Student Name": "ANSH JAIN",
+		"Branch": "IT"
+	},
+	"BHAGWATI PRASAD VYAS": {
+		"Sn": 7,
+		"Roll No": "21EUCIT007",
+		"CRN.": "21/419",
+		"Student Name": "BHAGWATI PRASAD VYAS",
+		"Branch": "IT"
+	},
+	"DEVVRAT SHUKLA": {
+		"Sn": 8,
+		"Roll No": "21EUCIT008",
+		"CRN.": "21/420",
+		"Student Name": "DEVVRAT SHUKLA",
+		"Branch": "IT"
+	},
+	"DHRUV AGARWAL": {
+		"Sn": 9,
+		"Roll No": "21EUCIT009",
+		"CRN.": "21/421",
+		"Student Name": "DHRUV AGARWAL",
+		"Branch": "IT"
+	},
+	"DIGGAJ BISHNOI": {
+		"Sn": 10,
+		"Roll No": "21EUCIT010",
+		"CRN.": "21/422",
+		"Student Name": "DIGGAJ BISHNOI",
+		"Branch": "IT"
+	},
+	"DIVYA GIDWANI": {
+		"Sn": 11,
+		"Roll No": "21EUCIT011",
+		"CRN.": "21/423",
+		"Student Name": "DIVYA GIDWANI",
+		"Branch": "IT"
+	},
+	"GAJRAJ SINGH BHATI": {
+		"Sn": 12,
+		"Roll No": "21EUCIT012",
+		"CRN.": "21/424",
+		"Student Name": "GAJRAJ SINGH BHATI",
+		"Branch": "IT"
+	},
+	"GARV JOSHI": {
+		"Sn": 13,
+		"Roll No": "21EUCIT013",
+		"CRN.": "21/425",
+		"Student Name": "GARV JOSHI",
+		"Branch": "IT"
+	},
+	"GAURAV GAUTAM": {
+		"Sn": 14,
+		"Roll No": "21EUCIT014",
+		"CRN.": "21/426",
+		"Student Name": "GAURAV GAUTAM",
+		"Branch": "IT"
+	},
+	"GAURAV MEHRA": {
+		"Sn": 15,
+		"Roll No": "21EUCIT015",
+		"CRN.": "21/427",
+		"Student Name": "GAURAV MEHRA",
+		"Branch": "IT"
+	},
+	"GAURAV PUROHIT": {
+		"Sn": 16,
+		"Roll No": "21EUCIT016",
+		"CRN.": "21/428",
+		"Student Name": "GAURAV PUROHIT",
+		"Branch": "IT"
+	},
+	"ABHISHEK MITTAL": {
+		"Sn": 17,
+		"Roll No": "LEEP",
+		"CRN.": "22/654",
+		"Student Name": "ABHISHEK MITTAL",
+		"Branch": "IT"
+	},
+	"GOVIND GARG": {
+		"Sn": 18,
+		"Roll No": "21EUCIT017",
+		"CRN.": "21/429",
+		"Student Name": "GOVIND GARG",
+		"Branch": "IT"
+	},
+	"HARISH KUMAR": {
+		"Sn": 19,
+		"Roll No": "21EUCIT018",
+		"CRN.": "21/430",
+		"Student Name": "HARISH KUMAR",
+		"Branch": "IT"
+	},
+	"HARSHIT HARIYANI": {
+		"Sn": 20,
+		"Roll No": "21EUCIT019",
+		"CRN.": "21/431",
+		"Student Name": "HARSHIT HARIYANI",
+		"Branch": "IT"
+	},
+	"JAHNAVI NAGAR": {
+		"Sn": 21,
+		"Roll No": "21EUCIT020",
+		"CRN.": "21/432",
+		"Student Name": "JAHNAVI NAGAR",
+		"Branch": "IT"
+	},
+	"JATIN KUMAR": {
+		"Sn": 22,
+		"Roll No": "21EUCIT021",
+		"CRN.": "21/433",
+		"Student Name": "JATIN KUMAR",
+		"Branch": "IT"
+	},
+	"JATIN SINDHWANI": {
+		"Sn": 23,
+		"Roll No": "21EUCIT022",
+		"CRN.": "21/434",
+		"Student Name": "JATIN SINDHWANI",
+		"Branch": "IT"
+	},
+	"JAYA DHAKAR": {
+		"Sn": 24,
+		"Roll No": "21EUCIT023",
+		"CRN.": "21/435",
+		"Student Name": "JAYA DHAKAR",
+		"Branch": "IT"
+	},
+	"KAMLESH JOSHI": {
+		"Sn": 25,
+		"Roll No": "21EUCIT024",
+		"CRN.": "21/436",
+		"Student Name": "KAMLESH JOSHI",
+		"Branch": "IT"
+	},
+	"KANISHK SAXENA": {
+		"Sn": 26,
+		"Roll No": "21EUCIT025",
+		"CRN.": "21/437",
+		"Student Name": "KANISHK SAXENA",
+		"Branch": "IT"
+	},
+	"KHANJAN": {
+		"Sn": 27,
+		"Roll No": "21EUCIT026",
+		"CRN.": "21/438",
+		"Student Name": "KHANJAN",
+		"Branch": "IT"
+	},
+	"KHUSHI GUPTA": {
+		"Sn": 28,
+		"Roll No": "21EUCIT027",
+		"CRN.": "21/439",
+		"Student Name": "KHUSHI GUPTA",
+		"Branch": "IT"
+	},
+	"KOMAL AGGARWAL": {
+		"Sn": 29,
+		"Roll No": "21EUCIT028",
+		"CRN.": "21/440",
+		"Student Name": "KOMAL AGGARWAL",
+		"Branch": "IT"
+	},
+	"KOSHAL JHA": {
+		"Sn": 30,
+		"Roll No": "21EUCIT029",
+		"CRN.": "21/441",
+		"Student Name": "KOSHAL JHA",
+		"Branch": "IT"
+	},
+	"LOKESH JANGID": {
+		"Sn": 31,
+		"Roll No": "21EUCIT030",
+		"CRN.": "21/442",
+		"Student Name": "LOKESH JANGID",
+		"Branch": "IT"
+	},
+	"MOHIT CHOUDHARY": {
+		"Sn": 32,
+		"Roll No": "21EUCIT031",
+		"CRN.": "21/443",
+		"Student Name": "MOHIT CHOUDHARY",
+		"Branch": "IT"
+	},
+	"MOHMMED AARIZ": {
+		"Sn": 33,
+		"Roll No": "21EUCIT032",
+		"CRN.": "21/444",
+		"Student Name": "MOHMMED AARIZ",
+		"Branch": "IT"
+	},
+	"DEV PRAKASHSAINI": {
+		"Sn": 34,
+		"Roll No": "LEEP",
+		"CRN.": "22/655",
+		"Student Name": "DEV PRAKASHSAINI",
+		"Branch": "IT"
+	},
+	"MUKUL DHAKAD": {
+		"Sn": 35,
+		"Roll No": "21EUCIT033",
+		"CRN.": "21/445",
+		"Student Name": "MUKUL DHAKAD",
+		"Branch": "IT"
+	},
+	"NEEL BHATNAGAR": {
+		"Sn": 36,
+		"Roll No": "21EUCIT034",
+		"CRN.": "21/446",
+		"Student Name": "NEEL BHATNAGAR",
+		"Branch": "IT"
+	},
+	"NIKHIL SHARMA": {
+		"Sn": 37,
+		"Roll No": "21EUCIT035",
+		"CRN.": "21/447",
+		"Student Name": "NIKHIL SHARMA",
+		"Branch": "IT"
+	},
+	"NIMIKA GUPTA": {
+		"Sn": 38,
+		"Roll No": "21EUCIT036",
+		"CRN.": "21/448",
+		"Student Name": "NIMIKA GUPTA",
+		"Branch": "IT"
+	},
+	"NIPUN AGARWAL": {
+		"Sn": 39,
+		"Roll No": "21EUCIT037",
+		"CRN.": "21/449",
+		"Student Name": "NIPUN AGARWAL",
+		"Branch": "IT"
+	},
+	"NITESH VERMA": {
+		"Sn": 40,
+		"Roll No": "21EUCIT038",
+		"CRN.": "21/450",
+		"Student Name": "NITESH VERMA",
+		"Branch": "IT"
+	},
+	"PRANAV SONI": {
+		"Sn": 41,
+		"Roll No": "21EUCIT039",
+		"CRN.": "21/451",
+		"Student Name": "PRANAV SONI",
+		"Branch": "IT"
+	},
+	"RASHI VERMA": {
+		"Sn": 42,
+		"Roll No": "21EUCIT040",
+		"CRN.": "21/452",
+		"Student Name": "RASHI VERMA",
+		"Branch": "IT"
+	},
+	"RAVIRAJ RATHORE": {
+		"Sn": 43,
+		"Roll No": "21EUCIT041",
+		"CRN.": "21/453",
+		"Student Name": "RAVIRAJ RATHORE",
+		"Branch": "IT"
+	},
+	"RISHABH KAPOOR": {
+		"Sn": 44,
+		"Roll No": "21EUCIT042",
+		"CRN.": "21/454",
+		"Student Name": "RISHABH KAPOOR",
+		"Branch": "IT"
+	},
+	"RISHABH KUMAR JAIN": {
+		"Sn": 45,
+		"Roll No": "21EUCIT043",
+		"CRN.": "21/455",
+		"Student Name": "RISHABH KUMAR JAIN",
+		"Branch": "IT"
+	},
+	"ROHIT MEENA": {
+		"Sn": 47,
+		"Roll No": "21EUCIT045",
+		"CRN.": "21/457",
+		"Student Name": "ROHIT MEENA",
+		"Branch": "IT"
+	},
+	"SABIHA KHAN": {
+		"Sn": 48,
+		"Roll No": "21EUCIT046",
+		"CRN.": "21/458",
+		"Student Name": "SABIHA KHAN",
+		"Branch": "IT"
+	},
+	"SAKSHI KUMARI": {
+		"Sn": 49,
+		"Roll No": "21EUCIT047",
+		"CRN.": "21/459",
+		"Student Name": "SAKSHI KUMARI",
+		"Branch": "IT"
+	},
+	"MAHIMA SUMAN": {
+		"Sn": 50,
+		"Roll No": "LEEP",
+		"CRN.": "22/656",
+		"Student Name": "MAHIMA SUMAN",
+		"Branch": "IT"
+	},
+	"SAMEER GANDHI": {
+		"Sn": 51,
+		"Roll No": "21EUCIT048",
+		"CRN.": "21/460",
+		"Student Name": "SAMEER GANDHI",
+		"Branch": "IT"
+	},
+	"SANYA SINGH SAMANT": {
+		"Sn": 52,
+		"Roll No": "21EUCIT049",
+		"CRN.": "21/461",
+		"Student Name": "SANYA SINGH SAMANT",
+		"Branch": "IT"
+	},
+	"SATWIK MAKHIJA": {
+		"Sn": 53,
+		"Roll No": "21EUCIT050",
+		"CRN.": "21/462",
+		"Student Name": "SATWIK MAKHIJA",
+		"Branch": "IT"
+	},
+	"SAUMYA SINHA": {
+		"Sn": 54,
+		"Roll No": "21EUCIT051",
+		"CRN.": "21/463",
+		"Student Name": "SAUMYA SINHA",
+		"Branch": "IT"
+	},
+	"SHIVANI DEVI": {
+		"Sn": 55,
+		"Roll No": "21EUCIT052",
+		"CRN.": "21/464",
+		"Student Name": "SHIVANI DEVI",
+		"Branch": "IT"
+	},
+	"SHOBHIT RAJPUROHIT": {
+		"Sn": 56,
+		"Roll No": "21EUCIT053",
+		"CRN.": "21/465",
+		"Student Name": "SHOBHIT RAJPUROHIT",
+		"Branch": "IT"
+	},
+	"SOURAV KUMAR AGARWAL": {
+		"Sn": 57,
+		"Roll No": "21EUCIT054",
+		"CRN.": "21/466",
+		"Student Name": "SOURAV KUMAR AGARWAL",
+		"Branch": "IT"
+	},
+	"SUMIT SINGH": {
+		"Sn": 58,
+		"Roll No": "21EUCIT055",
+		"CRN.": "21/467",
+		"Student Name": "SUMIT SINGH",
+		"Branch": "IT"
+	},
+	"SUNIL KUMAR SWAMI": {
+		"Sn": 59,
+		"Roll No": "21EUCIT056",
+		"CRN.": "21/468",
+		"Student Name": "SUNIL KUMAR SWAMI",
+		"Branch": "IT"
+	},
+	"VIDHI NYATI": {
+		"Sn": 60,
+		"Roll No": "21EUCIT057",
+		"CRN.": "21/469",
+		"Student Name": "VIDHI NYATI",
+		"Branch": "IT"
+	},
+	"VIKRAM KAREL": {
+		"Sn": 61,
+		"Roll No": "21EUCIT058",
+		"CRN.": "21/470",
+		"Student Name": "VIKRAM KAREL",
+		"Branch": "IT"
+	},
+	"VIPUL SHANKHALA": {
+		"Sn": 62,
+		"Roll No": "21EUCIT059",
+		"CRN.": "21/471",
+		"Student Name": "VIPUL SHANKHALA",
+		"Branch": "IT"
+	},
+	"VISHAL KUMAR PANDAY": {
+		"Sn": 63,
+		"Roll No": "21EUCIT060",
+		"CRN.": "21/472",
+		"Student Name": "VISHAL KUMAR PANDAY",
+		"Branch": "IT"
+	},
+	"YUDHISTHIR NEHRA": {
+		"Sn": 64,
+		"Roll No": "21EUCIT061",
+		"CRN.": "21/473",
+		"Student Name": "YUDHISTHIR NEHRA",
+		"Branch": "IT"
+	},
+	"NAVDEEP GUPTA": {
+		"Sn": 65,
+		"Roll No": "LEEP",
+		"CRN.": "22/657",
+		"Student Name": "NAVDEEP GUPTA",
+		"Branch": "IT"
+	},
+	"YOGESHWARI MITTAL": {
+		"Sn": 66,
+		"Roll No": "LEEP",
+		"CRN.": "22/658",
+		"Student Name": "YOGESHWARI MITTAL",
+		"Branch": "IT"
+	},
+	"ADITYARAJ SINGH CHANDRAWAT": {
+		"Sn": 1,
+		"Roll No": "21EUCME001",
+		"CRN.": "21/120",
+		"Student Name": "ADITYARAJ SINGH CHANDRAWAT",
+		"Branch": "ME"
+	},
+	"AMIT JANAGAL": {
+		"Sn": 2,
+		"Roll No": "21EUCME002",
+		"CRN.": "21/121",
+		"Student Name": "AMIT JANAGAL",
+		"Branch": "ME"
+	},
+	"AVDESH MEENA": {
+		"Sn": 3,
+		"Roll No": "21EUCME003",
+		"CRN.": "21/122",
+		"Student Name": "AVDESH MEENA",
+		"Branch": "ME"
+	},
+	"AYUSH KASOTIYA": {
+		"Sn": 4,
+		"Roll No": "21EUCME004",
+		"CRN.": "21/123",
+		"Student Name": "AYUSH KASOTIYA",
+		"Branch": "ME"
+	},
+	"CHETAN SHARMA": {
+		"Sn": 5,
+		"Roll No": "21EUCME005",
+		"CRN.": "21/124",
+		"Student Name": "CHETAN SHARMA",
+		"Branch": "ME"
+	},
+	"DEEPANSHU KUMAR": {
+		"Sn": 6,
+		"Roll No": "21EUCME006",
+		"CRN.": "21/125",
+		"Student Name": "DEEPANSHU KUMAR",
+		"Branch": "ME"
+	},
+	"DEEPESH KUMAR": {
+		"Sn": 7,
+		"Roll No": "21EUCME007",
+		"CRN.": "21/126",
+		"Student Name": "DEEPESH KUMAR",
+		"Branch": "ME"
+	},
+	"DEVESH SHARMA": {
+		"Sn": 8,
+		"Roll No": "21EUCME008",
+		"CRN.": "21/127",
+		"Student Name": "DEVESH SHARMA",
+		"Branch": "ME"
+	},
+	"DEVKI NANDAN MEGHWAL": {
+		"Sn": 9,
+		"Roll No": "21EUCME009",
+		"CRN.": "21/128",
+		"Student Name": "DEVKI NANDAN MEGHWAL",
+		"Branch": "ME"
+	},
+	"DILSHAD AHMAD": {
+		"Sn": 10,
+		"Roll No": "21EUCME010",
+		"CRN.": "21/129",
+		"Student Name": "DILSHAD AHMAD",
+		"Branch": "ME"
+	},
+	"GAURANG SHARMA": {
+		"Sn": 11,
+		"Roll No": "21EUCME011",
+		"CRN.": "21/130",
+		"Student Name": "GAURANG SHARMA",
+		"Branch": "ME"
+	},
+	"HARSH KUMAR CHETIWAL": {
+		"Sn": 12,
+		"Roll No": "21EUCME012",
+		"CRN.": "21/131",
+		"Student Name": "HARSH KUMAR CHETIWAL",
+		"Branch": "ME"
+	},
+	"HARSH RATHOD": {
+		"Sn": 13,
+		"Roll No": "21EUCME013",
+		"CRN.": "21/132",
+		"Student Name": "HARSH RATHOD",
+		"Branch": "ME"
+	},
+	"ANSHU SAINI": {
+		"Sn": 14,
+		"Roll No": "LEEP",
+		"CRN.": "22/659",
+		"Student Name": "ANSHU SAINI",
+		"Branch": "ME"
+	},
+	"DHARMENDRA KUMAR SHARMA": {
+		"Sn": 15,
+		"Roll No": "LEEP",
+		"CRN.": "22/660",
+		"Student Name": "DHARMENDRA KUMAR SHARMA",
+		"Branch": "ME"
+	},
+	"MOHAMMAD ABRAR KHAN": {
+		"Sn": 16,
+		"Roll No": "LEEP",
+		"CRN.": "22/661",
+		"Student Name": "MOHAMMAD ABRAR KHAN",
+		"Branch": "ME"
+	},
+	"JAYESH SHARMA": {
+		"Sn": 17,
+		"Roll No": "21EUCME014",
+		"CRN.": "21/133",
+		"Student Name": "JAYESH SHARMA",
+		"Branch": "ME"
+	},
+	"KAJAL KANWAR": {
+		"Sn": 18,
+		"Roll No": "21EUCME015",
+		"CRN.": "21/134",
+		"Student Name": "KAJAL KANWAR",
+		"Branch": "ME"
+	},
+	"KARAN SINGH JADOUN": {
+		"Sn": 19,
+		"Roll No": "21EUCME016",
+		"CRN.": "21/135",
+		"Student Name": "KARAN SINGH JADOUN",
+		"Branch": "ME"
+	},
+	"KHUSHAL SHARMA": {
+		"Sn": 20,
+		"Roll No": "21EUCME017",
+		"CRN.": "21/136",
+		"Student Name": "KHUSHAL SHARMA",
+		"Branch": "ME"
+	},
+	"LOKESH MEENA": {
+		"Sn": 21,
+		"Roll No": "21EUCME018",
+		"CRN.": "21/137",
+		"Student Name": "LOKESH MEENA",
+		"Branch": "ME"
+	},
+	"MANTRAKRIT MATHUR": {
+		"Sn": 22,
+		"Roll No": "21EUCME019",
+		"CRN.": "21/138",
+		"Student Name": "MANTRAKRIT MATHUR",
+		"Branch": "ME"
+	},
+	"MAYANK PANCHAL": {
+		"Sn": 23,
+		"Roll No": "21EUCME020",
+		"CRN.": "21/139",
+		"Student Name": "MAYANK PANCHAL",
+		"Branch": "ME"
+	},
+	"PRIYANSHU SAINI": {
+		"Sn": 24,
+		"Roll No": "21EUCME021",
+		"CRN.": "21/140",
+		"Student Name": "PRIYANSHU SAINI",
+		"Branch": "ME"
+	},
+	"RAGHVENDRA SINGH JADON": {
+		"Sn": 25,
+		"Roll No": "21EUCME022",
+		"CRN.": "21/141",
+		"Student Name": "RAGHVENDRA SINGH JADON",
+		"Branch": "ME"
+	},
+	"RAHUL JAJORIYA": {
+		"Sn": 26,
+		"Roll No": "21EUCME023",
+		"CRN.": "21/142",
+		"Student Name": "RAHUL JAJORIYA",
+		"Branch": "ME"
+	},
+	"RAMESH KUMAR SIRVI": {
+		"Sn": 27,
+		"Roll No": "21EUCME024",
+		"CRN.": "21/143",
+		"Student Name": "RAMESH KUMAR SIRVI",
+		"Branch": "ME"
+	},
+	"RISHIRAJ SINGH RATHORE": {
+		"Sn": 28,
+		"Roll No": "21EUCME025",
+		"CRN.": "21/144",
+		"Student Name": "RISHIRAJ SINGH RATHORE",
+		"Branch": "ME"
+	},
+	"NIKHIL NAGAR": {
+		"Sn": 30,
+		"Roll No": "LEEP",
+		"CRN.": "22/662",
+		"Student Name": "NIKHIL NAGAR",
+		"Branch": "ME"
+	},
+	"RAGHU RAJ SINGH RATHOR": {
+		"Sn": 31,
+		"Roll No": "LEEP",
+		"CRN.": "22/663",
+		"Student Name": "RAGHU RAJ SINGH RATHOR",
+		"Branch": "ME"
+	},
+	"ROHIT SUMAN": {
+		"Sn": 32,
+		"Roll No": "LEEP",
+		"CRN.": "22/664",
+		"Student Name": "ROHIT SUMAN",
+		"Branch": "ME"
+	},
+	"RONAK GUPTA": {
+		"Sn": 33,
+		"Roll No": "21EUCME027",
+		"CRN.": "21/146",
+		"Student Name": "RONAK GUPTA",
+		"Branch": "ME"
+	},
+	"SANYAM JAIN": {
+		"Sn": 34,
+		"Roll No": "21EUCME028",
+		"CRN.": "21/147",
+		"Student Name": "SANYAM JAIN",
+		"Branch": "ME"
+	},
+	"SHALINI BANSHIWAL": {
+		"Sn": 35,
+		"Roll No": "21EUCME029",
+		"CRN.": "21/148",
+		"Student Name": "SHALINI BANSHIWAL",
+		"Branch": "ME"
+	},
+	"SHAURYA SINGH TOMAR": {
+		"Sn": 36,
+		"Roll No": "21EUCME030",
+		"CRN.": "21/149",
+		"Student Name": "SHAURYA SINGH TOMAR",
+		"Branch": "ME"
+	},
+	"SHIVAM NAMA": {
+		"Sn": 37,
+		"Roll No": "21EUCME031",
+		"CRN.": "21/150",
+		"Student Name": "SHIVAM NAMA",
+		"Branch": "ME"
+	},
+	"SHIWANGI": {
+		"Sn": 38,
+		"Roll No": "21EUCME032",
+		"CRN.": "21/151",
+		"Student Name": "SHIWANGI",
+		"Branch": "ME"
+	},
+	"SHRUTINJAY SINGH": {
+		"Sn": 39,
+		"Roll No": "21EUCME033",
+		"CRN.": "21/152",
+		"Student Name": "SHRUTINJAY SINGH",
+		"Branch": "ME"
+	},
+	"SPARSH JOSHI": {
+		"Sn": 40,
+		"Roll No": "21EUCME034",
+		"CRN.": "21/153",
+		"Student Name": "SPARSH JOSHI",
+		"Branch": "ME"
+	},
+	"VINAKSHI": {
+		"Sn": 41,
+		"Roll No": "21EUCME035",
+		"CRN.": "21/154",
+		"Student Name": "VINAKSHI",
+		"Branch": "ME"
+	},
+	"VISHAL PRAJAPATI": {
+		"Sn": 42,
+		"Roll No": "21EUCME036",
+		"CRN.": "21/155",
+		"Student Name": "VISHAL PRAJAPATI",
+		"Branch": "ME"
+	},
+	"VISHNU SHAKYAWAL": {
+		"Sn": 43,
+		"Roll No": "21EUCME037",
+		"CRN.": "21/156",
+		"Student Name": "VISHNU SHAKYAWAL",
+		"Branch": "ME"
+	},
+	"VIVEK KUMAR SAINI": {
+		"Sn": 44,
+		"Roll No": "21EUCME038",
+		"CRN.": "21/157",
+		"Student Name": "VIVEK KUMAR SAINI",
+		"Branch": "ME"
+	},
+	"YASH CHHABRA": {
+		"Sn": 45,
+		"Roll No": "21EUCME039",
+		"CRN.": "21/158",
+		"Student Name": "YASH CHHABRA",
+		"Branch": "ME"
+	},
+	"SHAILESH KUMAR JANGID": {
+		"Sn": 46,
+		"Roll No": "LEEP",
+		"CRN.": "22/665",
+		"Student Name": "SHAILESH KUMAR JANGID",
+		"Branch": "ME"
+	},
+	"SHANTANU KUMAR SAINI": {
+		"Sn": 47,
+		"Roll No": "LEEP",
+		"CRN.": "22/666",
+		"Student Name": "SHANTANU KUMAR SAINI",
+		"Branch": "ME"
+	},
+	"SHUBHAM": {
+		"Sn": 48,
+		"Roll No": "LEEP",
+		"CRN.": "22/667",
+		"Student Name": "SHUBHAM",
+		"Branch": "ME"
+	},
+	"SURENDRA SINGH RATHOD": {
+		"Sn": 49,
+		"Roll No": "LEEP",
+		"CRN.": "22/668",
+		"Student Name": "SURENDRA SINGH RATHOD",
+		"Branch": "ME"
+	},
+	"AAYUSH MAHAWER": {
+		"Sn": 1,
+		"Roll No": "21EUCPI001",
+		"CRN.": "21/159",
+		"Student Name": "AAYUSH MAHAWER",
+		"Branch": "P&I"
+	},
+	"ADITYA DADHICH": {
+		"Sn": 2,
+		"Roll No": "21EUCPI002",
+		"CRN.": "21/160",
+		"Student Name": "ADITYA DADHICH",
+		"Branch": "P&I"
+	},
+	"GAURAV MALAV": {
+		"Sn": 3,
+		"Roll No": "21EUCPI003",
+		"CRN.": "21/161",
+		"Student Name": "GAURAV MALAV",
+		"Branch": "P&I"
+	},
+	"AAKASH JANGID": {
+		"Sn": 1,
+		"Roll No": "21EUCAN001",
+		"CRN.": "21/162",
+		"Student Name": "AAKASH JANGID",
+		"Branch": "AE"
+	},
+	"ANSH SRIVASTAVA": {
+		"Sn": 2,
+		"Roll No": "21EUCAN002",
+		"CRN.": "21/163",
+		"Student Name": "ANSH SRIVASTAVA",
+		"Branch": "AE"
+	},
+	"ANSHU DORIA": {
+		"Sn": 3,
+		"Roll No": "21EUCAN003",
+		"CRN.": "21/164",
+		"Student Name": "ANSHU DORIA",
+		"Branch": "AE"
+	},
+	"BHAWANA": {
+		"Sn": 4,
+		"Roll No": "21EUCAN004",
+		"CRN.": "21/165",
+		"Student Name": "BHAWANA",
+		"Branch": "AE"
+	},
+	"GANTAVYA SHARMA": {
+		"Sn": 5,
+		"Roll No": "21EUCAN005",
+		"CRN.": "21/166",
+		"Student Name": "GANTAVYA SHARMA",
+		"Branch": "AE"
+	},
+	"GOVIND RAWAL": {
+		"Sn": 6,
+		"Roll No": "21EUCAN006",
+		"CRN.": "21/167",
+		"Student Name": "GOVIND RAWAL",
+		"Branch": "AE"
+	},
+	"JEETU SWAMI": {
+		"Sn": 7,
+		"Roll No": "21EUCAN007",
+		"CRN.": "21/168",
+		"Student Name": "JEETU SWAMI",
+		"Branch": "AE"
+	},
+	"KAMAL SUMAN": {
+		"Sn": 8,
+		"Roll No": "21EUCAN008",
+		"CRN.": "21/169",
+		"Student Name": "KAMAL SUMAN",
+		"Branch": "AE"
+	},
+	"KARAN SINGH RATHORE": {
+		"Sn": 9,
+		"Roll No": "21EUCAN009",
+		"CRN.": "21/170",
+		"Student Name": "KARAN SINGH RATHORE",
+		"Branch": "AE"
+	},
+	"KHUSHBOO GOYAL": {
+		"Sn": 10,
+		"Roll No": "21EUCAN010",
+		"CRN.": "21/171",
+		"Student Name": "KHUSHBOO GOYAL",
+		"Branch": "AE"
+	},
+	"MOHAK JAIN": {
+		"Sn": 11,
+		"Roll No": "21EUCAN011",
+		"CRN.": "21/172",
+		"Student Name": "MOHAK JAIN",
+		"Branch": "AE"
+	},
+	"NAVNEET SWAMI": {
+		"Sn": 12,
+		"Roll No": "21EUCAN012",
+		"CRN.": "21/173",
+		"Student Name": "NAVNEET SWAMI",
+		"Branch": "AE"
+	},
+	"RUDRANSH VYAS": {
+		"Sn": 13,
+		"Roll No": "21EUCAN013",
+		"CRN.": "21/174",
+		"Student Name": "RUDRANSH VYAS",
+		"Branch": "AE"
+	},
+	"SAMRITI THAKUR": {
+		"Sn": 14,
+		"Roll No": "21EUCAN014",
+		"CRN.": "21/175",
+		"Student Name": "SAMRITI THAKUR",
+		"Branch": "AE"
+	},
+	"SAURABH KUMAWAT": {
+		"Sn": 15,
+		"Roll No": "LEEP",
+		"CRN.": "22/601",
+		"Student Name": "SAURABH KUMAWAT",
+		"Branch": "AE"
+	}
+}
